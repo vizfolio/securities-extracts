@@ -3,8 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "Nasdaq",
-    null
+    "Nasdaq"
   ],
   "name": "People Inc",
   "schema_version": "0.1",
@@ -12,7 +11,7 @@
   "sic": "7370",
   "sic_description": "Services-Computer Programming, Data Processing, Etc.",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:42+00:00"
+    "edgar_fetched_at": "2026-06-27T22:17:25+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
