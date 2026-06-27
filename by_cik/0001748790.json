@@ -1,0 +1,22 @@
+{
+  "cik": "0001748790",
+  "country": "Jersey",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "Amcor plc",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3990",
+  "sic_description": "Miscellaneous Manufacturing Industries",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T20:33:54+00:00"
+  },
+  "state_of_incorporation": "Y9",
+  "tickers": [
+    "AMCR",
+    "AMCCF"
+  ]
+}
