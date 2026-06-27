@@ -1,0 +1,20 @@
+{
+  "cik": "0001046025",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "HERITAGE FINANCIAL CORP /WA/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6036",
+  "sic_description": "Savings Institutions, Not Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:21+00:00"
+  },
+  "state_of_incorporation": "WA",
+  "tickers": [
+    "HFWA"
+  ]
+}

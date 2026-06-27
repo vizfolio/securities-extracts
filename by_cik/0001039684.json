@@ -1,0 +1,20 @@
+{
+  "cik": "0001039684",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ONEOK INC /NEW/",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4923",
+  "sic_description": "Natural Gas Transmisison & Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:14+00:00"
+  },
+  "state_of_incorporation": "OK",
+  "tickers": [
+    "OKE"
+  ]
+}

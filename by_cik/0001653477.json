@@ -1,0 +1,20 @@
+{
+  "cik": "0001653477",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Ingevity Corp",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2800",
+  "sic_description": "Chemicals & Allied Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:11+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NGVT"
+  ]
+}

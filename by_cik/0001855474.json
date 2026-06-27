@@ -1,0 +1,22 @@
+{
+  "cik": "0001855474",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "AirJoule Technologies Corp.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3585",
+  "sic_description": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:37+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AIRJ",
+    "AIRJW"
+  ]
+}

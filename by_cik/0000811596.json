@@ -1,0 +1,20 @@
+{
+  "cik": "0000811596",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "KAISER ALUMINUM CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3350",
+  "sic_description": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:10+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "KALU"
+  ]
+}

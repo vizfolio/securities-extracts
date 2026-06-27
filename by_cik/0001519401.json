@@ -1,0 +1,20 @@
+{
+  "cik": "0001519401",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Regional Management Corp.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6141",
+  "sic_description": "Personal Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:46+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RM"
+  ]
+}

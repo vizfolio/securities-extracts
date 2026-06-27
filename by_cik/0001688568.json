@@ -1,0 +1,20 @@
+{
+  "cik": "0001688568",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DXC Technology Co",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:34+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "DXC"
+  ]
+}

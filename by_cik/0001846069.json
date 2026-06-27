@@ -1,0 +1,20 @@
+{
+  "cik": "0001846069",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Nextdoor Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7370",
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NXDR"
+  ]
+}

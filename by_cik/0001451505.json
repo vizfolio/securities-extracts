@@ -1,0 +1,20 @@
+{
+  "cik": "0001451505",
+  "country": "Switzerland",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Transocean Ltd.",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1381",
+  "sic_description": "Drilling Oil & Gas Wells",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:07+00:00"
+  },
+  "state_of_incorporation": "V8",
+  "tickers": [
+    "RIG"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000919012",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "AMERICAN EAGLE OUTFITTERS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "sic_description": "Retail-Family Clothing Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AEO"
+  ]
+}

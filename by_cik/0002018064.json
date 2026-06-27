@@ -1,0 +1,20 @@
+{
+  "cik": "0002018064",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "TechTarget, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4822",
+  "sic_description": "Telegraph & Other Message Communications",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:20+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TTGT"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "cik": "0001101215",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BREAD FINANCIAL HOLDINGS, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6141",
+  "sic_description": "Personal Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:57+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BFH",
+    "BFH-PA",
+    "BFH-PB"
+  ]
+}

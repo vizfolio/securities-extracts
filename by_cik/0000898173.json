@@ -1,0 +1,20 @@
+{
+  "cik": "0000898173",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "O REILLY AUTOMOTIVE INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5531",
+  "sic_description": "Retail-Auto & Home Supply Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:07+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ORLY"
+  ]
+}

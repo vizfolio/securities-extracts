@@ -1,0 +1,20 @@
+{
+  "cik": "0002119322",
+  "country": "US",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Digimarc Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:34+00:00"
+  },
+  "state_of_incorporation": "OR",
+  "tickers": [
+    "DMRC"
+  ]
+}

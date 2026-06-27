@@ -1,0 +1,20 @@
+{
+  "cik": "0001612720",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "NextDecade Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4923",
+  "sic_description": "Natural Gas Transmisison & Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:43+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NEXT"
+  ]
+}

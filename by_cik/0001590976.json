@@ -1,0 +1,20 @@
+{
+  "cik": "0001590976",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "MALIBU BOATS, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3730",
+  "sic_description": "Ship & Boat Building & Repairing",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:27+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MBUU"
+  ]
+}

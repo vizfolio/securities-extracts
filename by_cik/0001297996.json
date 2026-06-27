@@ -1,0 +1,26 @@
+{
+  "cik": "0001297996",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "DIGITAL REALTY TRUST, INC.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:55+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "DLR",
+    "DLR-PK",
+    "DLR-PJ",
+    "DLR-PL"
+  ]
+}

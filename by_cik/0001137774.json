@@ -1,0 +1,26 @@
+{
+  "cik": "0001137774",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "PRUDENTIAL FINANCIAL INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:13+00:00"
+  },
+  "state_of_incorporation": "NJ",
+  "tickers": [
+    "PRU",
+    "PFH",
+    "PRH",
+    "PRS"
+  ]
+}

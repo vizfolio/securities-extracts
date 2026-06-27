@@ -1,0 +1,20 @@
+{
+  "cik": "0000924383",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Genasys Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3651",
+  "sic_description": "Household Audio & Video Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GNSS"
+  ]
+}

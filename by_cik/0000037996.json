@@ -1,0 +1,26 @@
+{
+  "cik": "0000037996",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "FORD MOTOR CO",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "sic_description": "Motor Vehicles & Passenger Car Bodies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:14+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "F",
+    "F-PB",
+    "F-PC",
+    "F-PD"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001341439",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "ORACLE CORP",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:11+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ORCL",
+    "ORCL-PD"
+  ]
+}

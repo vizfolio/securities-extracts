@@ -1,0 +1,20 @@
+{
+  "cik": "0000949870",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BOSTON BEER CO INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2082",
+  "sic_description": "Malt Beverages",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:46+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "SAM"
+  ]
+}

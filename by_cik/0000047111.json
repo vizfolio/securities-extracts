@@ -1,0 +1,20 @@
+{
+  "cik": "0000047111",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "HERSHEY CO",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2060",
+  "sic_description": "Sugar & Confectionery Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:22+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HSY"
+  ]
+}

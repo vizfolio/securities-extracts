@@ -1,0 +1,20 @@
+{
+  "cik": "0000899751",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TITAN INTERNATIONAL INC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3312",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:09+00:00"
+  },
+  "state_of_incorporation": "IL",
+  "tickers": [
+    "TWI"
+  ]
+}

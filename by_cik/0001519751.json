@@ -1,0 +1,20 @@
+{
+  "cik": "0001519751",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Fortune Brands Innovations, Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2430",
+  "sic_description": "Millwood, Veneer, Plywood, & Structural Wood Members",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:46+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FBIN"
+  ]
+}

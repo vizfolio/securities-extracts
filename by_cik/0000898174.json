@@ -1,0 +1,24 @@
+{
+  "cik": "0000898174",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "REINSURANCE GROUP OF AMERICA INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:07+00:00"
+  },
+  "state_of_incorporation": "MO",
+  "tickers": [
+    "RGA",
+    "RZB",
+    "RZC"
+  ]
+}

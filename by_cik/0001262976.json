@@ -1,0 +1,20 @@
+{
+  "cik": "0001262976",
+  "country": "Ireland",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CIMPRESS plc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "2750",
+  "sic_description": "Commercial Printing",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:40+00:00"
+  },
+  "state_of_incorporation": "L2",
+  "tickers": [
+    "CMPR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001567094",
+  "country": "Netherlands",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CNH Industrial N.V.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3531",
+  "sic_description": "Construction Machinery & Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:08+00:00"
+  },
+  "state_of_incorporation": "P7",
+  "tickers": [
+    "CNH"
+  ]
+}

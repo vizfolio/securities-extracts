@@ -1,0 +1,20 @@
+{
+  "cik": "0001408710",
+  "country": "Cayman Islands",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Fabrinet",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3661",
+  "sic_description": "Telephone & Telegraph Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:44+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "FN"
+  ]
+}

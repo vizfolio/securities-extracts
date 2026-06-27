@@ -1,0 +1,20 @@
+{
+  "cik": "0000040211",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GATX CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4700",
+  "sic_description": "Transportation Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:16+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "GATX"
+  ]
+}

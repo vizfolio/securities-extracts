@@ -1,0 +1,20 @@
+{
+  "cik": "0001257640",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "KRONOS WORLDWIDE INC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2810",
+  "sic_description": "Industrial Inorganic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:38+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "KRO"
+  ]
+}

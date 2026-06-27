@@ -1,0 +1,20 @@
+{
+  "cik": "0001897762",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Ingram Micro Holding Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "5045",
+  "sic_description": "Wholesale-Computers & Peripheral Equipment & Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:56+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "INGM"
+  ]
+}

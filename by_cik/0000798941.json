@@ -1,0 +1,28 @@
+{
+  "cik": "0000798941",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "FIRST CITIZENS BANCSHARES INC /DE/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:04+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FCNCA",
+    "FCNCB",
+    "FCNCN",
+    "FCNCO",
+    "FCNCP"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001163739",
+  "country": "Bermuda",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "NABORS INDUSTRIES LTD",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1381",
+  "sic_description": "Drilling Oil & Gas Wells",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:21+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "NBR",
+    "NBRWF"
+  ]
+}

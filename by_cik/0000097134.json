@@ -1,0 +1,20 @@
+{
+  "cik": "0000097134",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TENNANT CO",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3580",
+  "sic_description": "Refrigeration & Service Industry Machinery",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:07+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "TNC"
+  ]
+}

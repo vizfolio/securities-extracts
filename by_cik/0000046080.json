@@ -1,0 +1,20 @@
+{
+  "cik": "0000046080",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "HASBRO, INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3944",
+  "sic_description": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:20+00:00"
+  },
+  "state_of_incorporation": "RI",
+  "tickers": [
+    "HAS"
+  ]
+}

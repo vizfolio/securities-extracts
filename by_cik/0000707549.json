@@ -1,0 +1,20 @@
+{
+  "cik": "0000707549",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "LAM RESEARCH CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3559",
+  "sic_description": "Special Industry Machinery, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:55+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "LRCX"
+  ]
+}

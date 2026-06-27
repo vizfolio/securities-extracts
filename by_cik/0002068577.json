@@ -1,0 +1,20 @@
+{
+  "cik": "0002068577",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Black Rock Coffee Bar, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5810",
+  "sic_description": "Retail-Eating & Drinking Places",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BRCB"
+  ]
+}

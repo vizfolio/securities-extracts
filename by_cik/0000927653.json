@@ -1,0 +1,20 @@
+{
+  "cik": "0000927653",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MCKESSON CORP",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "5122",
+  "sic_description": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MCK"
+  ]
+}

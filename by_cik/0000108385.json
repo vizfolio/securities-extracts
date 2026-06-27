@@ -1,0 +1,20 @@
+{
+  "cik": "0000108385",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "WORLD ACCEPTANCE CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6141",
+  "sic_description": "Personal Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:18+00:00"
+  },
+  "state_of_incorporation": "SC",
+  "tickers": [
+    "WRLD"
+  ]
+}

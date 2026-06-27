@@ -1,0 +1,20 @@
+{
+  "cik": "0001772921",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "OneWater Marine Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5531",
+  "sic_description": "Retail-Auto & Home Supply Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ONEW"
+  ]
+}

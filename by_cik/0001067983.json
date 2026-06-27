@@ -1,0 +1,22 @@
+{
+  "cik": "0001067983",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BERKSHIRE HATHAWAY INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T19:04:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BRK-B",
+    "BRK-A"
+  ]
+}

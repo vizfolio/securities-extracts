@@ -1,0 +1,26 @@
+{
+  "cik": "0000714310",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "VALLEY NATIONAL BANCORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:04+00:00"
+  },
+  "state_of_incorporation": "NJ",
+  "tickers": [
+    "VLY",
+    "VLYPP",
+    "VLYPO",
+    "VLYPN"
+  ]
+}

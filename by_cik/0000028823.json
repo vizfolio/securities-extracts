@@ -1,0 +1,20 @@
+{
+  "cik": "0000028823",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DIEBOLD NIXDORF, Inc",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3578",
+  "sic_description": "Calculating & Accounting Machines (No Electronic Computers)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:05+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DBD"
+  ]
+}

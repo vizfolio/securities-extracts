@@ -1,0 +1,20 @@
+{
+  "cik": "0002019505",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Health In Tech, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6411",
+  "sic_description": "Insurance Agents, Brokers & Service",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:20+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "HIT"
+  ]
+}

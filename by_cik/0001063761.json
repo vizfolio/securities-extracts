@@ -1,0 +1,22 @@
+{
+  "cik": "0001063761",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "SIMON PROPERTY GROUP INC.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:35+00:00"
+  },
+  "state_of_incorporation": "IN",
+  "tickers": [
+    "SPG",
+    "SPG-PJ"
+  ]
+}

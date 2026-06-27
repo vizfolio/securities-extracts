@@ -1,0 +1,20 @@
+{
+  "cik": "0001817358",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Academy Sports & Outdoors, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5940",
+  "sic_description": "Retail-Miscellaneous Shopping Goods Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:54+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ASO"
+  ]
+}

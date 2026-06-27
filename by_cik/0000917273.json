@@ -1,0 +1,20 @@
+{
+  "cik": "0000917273",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RAMBUS INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RMBS"
+  ]
+}

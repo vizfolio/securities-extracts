@@ -1,0 +1,20 @@
+{
+  "cik": "0001486957",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BWX Technologies, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3510",
+  "sic_description": "Engines & Turbines",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BWXT"
+  ]
+}

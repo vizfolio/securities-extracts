@@ -1,0 +1,20 @@
+{
+  "cik": "0000849145",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Heritage Global Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:28+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "HGBL"
+  ]
+}

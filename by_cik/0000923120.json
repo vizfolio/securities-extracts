@@ -1,0 +1,20 @@
+{
+  "cik": "0000923120",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GREENBRIER COMPANIES INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3743",
+  "sic_description": "Railroad Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:30+00:00"
+  },
+  "state_of_incorporation": "OR",
+  "tickers": [
+    "GBX"
+  ]
+}

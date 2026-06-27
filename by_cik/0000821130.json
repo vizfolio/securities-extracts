@@ -1,0 +1,26 @@
+{
+  "cik": "0000821130",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "ARRAY DIGITAL INFRASTRUCTURE, INC.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4812",
+  "sic_description": "Radiotelephone Communications",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AD",
+    "UZD",
+    "UZE",
+    "UZF"
+  ]
+}

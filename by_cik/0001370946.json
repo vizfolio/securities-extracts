@@ -1,0 +1,20 @@
+{
+  "cik": "0001370946",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Owens Corning",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3290",
+  "sic_description": "Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:23+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "OC"
+  ]
+}

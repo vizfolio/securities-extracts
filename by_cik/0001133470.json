@@ -1,0 +1,16 @@
+{
+  "cik": "0001133470",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [],
+  "name": "CALAVO GROWERS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "0700",
+  "sic_description": "Agricultural Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:12+00:00"
+  },
+  "state_of_incorporation": "CA",
+  "tickers": []
+}

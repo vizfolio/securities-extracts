@@ -1,0 +1,22 @@
+{
+  "cik": "0000920760",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "LENNAR CORP /NEW/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "1520",
+  "sic_description": "General Bldg Contractors - Residential Bldgs",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:28+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "LEN",
+    "LEN-B"
+  ]
+}

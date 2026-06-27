@@ -1,0 +1,20 @@
+{
+  "cik": "0001859199",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "reAlpha Tech Corp.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:40+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AIRE"
+  ]
+}

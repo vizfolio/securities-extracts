@@ -1,0 +1,22 @@
+{
+  "cik": "0001488813",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Customers Bancorp, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:28+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "CUBI",
+    "CUBB"
+  ]
+}

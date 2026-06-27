@@ -1,0 +1,20 @@
+{
+  "cik": "0001370637",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ETSY INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:23+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ETSY"
+  ]
+}

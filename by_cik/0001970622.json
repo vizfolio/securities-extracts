@@ -1,0 +1,20 @@
+{
+  "cik": "0001970622",
+  "country": "Cayman Islands",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "USA Rare Earth, Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:09+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "USAR"
+  ]
+}

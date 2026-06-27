@@ -1,0 +1,20 @@
+{
+  "cik": "0000835011",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "MGP INGREDIENTS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5180",
+  "sic_description": "Wholesale-Beer, Wine & Distilled Alcoholic Beverages",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:23+00:00"
+  },
+  "state_of_incorporation": "KS",
+  "tickers": [
+    "MGPI"
+  ]
+}

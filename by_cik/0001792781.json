@@ -1,0 +1,20 @@
+{
+  "cik": "0001792781",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Torrid Holdings Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5600",
+  "sic_description": "Retail-Apparel & Accessory Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:37+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "CURV"
+  ]
+}

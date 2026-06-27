@@ -1,0 +1,20 @@
+{
+  "cik": "0001185348",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "PRA GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6153",
+  "sic_description": "Short-Term Business Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:29+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PRAA"
+  ]
+}

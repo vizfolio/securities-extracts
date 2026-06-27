@@ -1,0 +1,26 @@
+{
+  "cik": "0000732717",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "AT&T INC.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "T",
+    "TBB",
+    "T-PA",
+    "T-PC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001120970",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Comstock Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:05+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "LODE"
+  ]
+}

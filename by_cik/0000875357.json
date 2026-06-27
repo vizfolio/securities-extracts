@@ -1,0 +1,20 @@
+{
+  "cik": "0000875357",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "BOK FINANCIAL CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:43+00:00"
+  },
+  "state_of_incorporation": "OK",
+  "tickers": [
+    "BOKF"
+  ]
+}

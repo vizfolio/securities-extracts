@@ -1,0 +1,20 @@
+{
+  "cik": "0000924719",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SMITH MIDLAND CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3272",
+  "sic_description": "Concrete Products, Except Block & Brick",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SMID"
+  ]
+}

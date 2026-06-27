@@ -1,0 +1,20 @@
+{
+  "cik": "0001436208",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Legacy Housing Corp",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2451",
+  "sic_description": "Mobile Homes",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:00+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "LEGH"
+  ]
+}

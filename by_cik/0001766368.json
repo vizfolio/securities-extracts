@@ -1,0 +1,20 @@
+{
+  "cik": "0001766368",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Mayville Engineering Company, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3460",
+  "sic_description": "Metal Forgings & Stampings",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:20+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MEC"
+  ]
+}

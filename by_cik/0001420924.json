@@ -1,0 +1,20 @@
+{
+  "cik": "0001420924",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "Adapti, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7900",
+  "sic_description": "Services-Amusement & Recreation Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:50+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "ADTI"
+  ]
+}

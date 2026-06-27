@@ -1,0 +1,20 @@
+{
+  "cik": "0001903382",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Bluerock Homes Trust, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:57+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "BHM"
+  ]
+}

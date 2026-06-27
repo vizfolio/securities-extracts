@@ -1,0 +1,20 @@
+{
+  "cik": "0000915389",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "EASTMAN CHEMICAL CO",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2821",
+  "sic_description": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "EMN"
+  ]
+}

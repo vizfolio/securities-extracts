@@ -1,0 +1,26 @@
+{
+  "cik": "0000088948",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "OTC",
+    "OTC"
+  ],
+  "name": "Seneca Foods Corp",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2033",
+  "sic_description": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:00+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "SENEA",
+    "SENEB",
+    "SENEL",
+    "SENEM"
+  ]
+}

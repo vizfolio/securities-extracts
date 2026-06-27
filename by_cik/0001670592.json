@@ -1,0 +1,20 @@
+{
+  "cik": "0001670592",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "YETI Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3949",
+  "sic_description": "Sporting & Athletic Goods, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:20+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "YETI"
+  ]
+}

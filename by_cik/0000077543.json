@@ -1,0 +1,20 @@
+{
+  "cik": "0000077543",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TUTOR PERINI CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1540",
+  "sic_description": "General Bldg Contractors - Nonresidential Bldgs",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:52+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "TPC"
+  ]
+}

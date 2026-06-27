@@ -1,0 +1,20 @@
+{
+  "cik": "0000704532",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ONTO INNOVATION INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3829",
+  "sic_description": "Measuring & Controlling Devices, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:52+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ONTO"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001137091",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "POWER SOLUTIONS INTERNATIONAL, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3510",
+  "sic_description": "Engines & Turbines",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:12+00:00"
+  },
+  "state_of_incorporation": "IL",
+  "tickers": [
+    "PSIX"
+  ]
+}

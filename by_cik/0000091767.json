@@ -1,0 +1,20 @@
+{
+  "cik": "0000091767",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SONOCO PRODUCTS CO",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2650",
+  "sic_description": "Paperboard Containers & Boxes",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:02+00:00"
+  },
+  "state_of_incorporation": "SC",
+  "tickers": [
+    "SON"
+  ]
+}

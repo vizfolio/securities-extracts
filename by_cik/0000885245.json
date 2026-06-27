@@ -1,0 +1,20 @@
+{
+  "cik": "0000885245",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BUCKLE INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "sic_description": "Retail-Family Clothing Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:53+00:00"
+  },
+  "state_of_incorporation": "NE",
+  "tickers": [
+    "BKE"
+  ]
+}

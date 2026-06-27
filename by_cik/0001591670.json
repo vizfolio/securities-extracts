@@ -1,0 +1,20 @@
+{
+  "cik": "0001591670",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Farmland Partners Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:28+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "FPI"
+  ]
+}

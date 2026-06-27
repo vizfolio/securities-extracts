@@ -1,0 +1,20 @@
+{
+  "cik": "0000009092",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BADGER METER INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3824",
+  "sic_description": "Totalizing Fluid Meters & Counting Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:51+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "BMI"
+  ]
+}

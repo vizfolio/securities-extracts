@@ -1,0 +1,20 @@
+{
+  "cik": "0000792987",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ASTEC INDUSTRIES INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3531",
+  "sic_description": "Construction Machinery & Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:59+00:00"
+  },
+  "state_of_incorporation": "TN",
+  "tickers": [
+    "ASTE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0000886128",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "FUELCELL ENERGY INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3620",
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:54+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FCEL",
+    "FCELB"
+  ]
+}

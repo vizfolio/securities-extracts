@@ -1,0 +1,20 @@
+{
+  "cik": "0001578732",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Marcus & Millichap, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6531",
+  "sic_description": "Real Estate Agents & Managers (For Others)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:16+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MMI"
+  ]
+}

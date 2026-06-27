@@ -1,0 +1,20 @@
+{
+  "cik": "0001616707",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Wayfair Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5961",
+  "sic_description": "Retail-Catalog & Mail-Order Houses",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:45+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "W"
+  ]
+}

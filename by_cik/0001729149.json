@@ -1,0 +1,20 @@
+{
+  "cik": "0001729149",
+  "country": "British Columbia, Canada",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "VIEMED HEALTHCARE, INC.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8090",
+  "sic_description": "Services-Misc Health & Allied Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:01+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "VMD"
+  ]
+}

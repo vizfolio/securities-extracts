@@ -1,0 +1,20 @@
+{
+  "cik": "0001664703",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Bloom Energy Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3620",
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BE"
+  ]
+}

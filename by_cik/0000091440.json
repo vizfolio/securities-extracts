@@ -1,0 +1,20 @@
+{
+  "cik": "0000091440",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Snap-on Inc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3420",
+  "sic_description": "Cutlery, Handtools & General Hardware",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SNA"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001524472",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Xylem Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3561",
+  "sic_description": "Pumps & Pumping Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:49+00:00"
+  },
+  "state_of_incorporation": "IN",
+  "tickers": [
+    "XYL"
+  ]
+}

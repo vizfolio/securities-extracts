@@ -1,0 +1,20 @@
+{
+  "cik": "0001967680",
+  "country": "United States",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Veralto Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3825",
+  "sic_description": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:08+00:00"
+  },
+  "state_of_incorporation": "X1",
+  "tickers": [
+    "VLTO"
+  ]
+}

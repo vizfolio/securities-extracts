@@ -1,0 +1,20 @@
+{
+  "cik": "0000918646",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "EAGLE MATERIALS INC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3241",
+  "sic_description": "Cement, Hydraulic",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:25+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "EXP"
+  ]
+}

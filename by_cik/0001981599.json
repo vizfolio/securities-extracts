@@ -1,0 +1,20 @@
+{
+  "cik": "0001981599",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Centuri Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4923",
+  "sic_description": "Natural Gas Transmisison & Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:11+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CTRI"
+  ]
+}

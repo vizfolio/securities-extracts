@@ -1,0 +1,20 @@
+{
+  "cik": "0001804745",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Driven Brands Holdings Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7500",
+  "sic_description": "Services-Automotive Repair, Services & Parking",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:45+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DRVN"
+  ]
+}

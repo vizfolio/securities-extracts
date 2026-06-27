@@ -1,0 +1,20 @@
+{
+  "cik": "0001808220",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "GoHealth, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6411",
+  "sic_description": "Insurance Agents, Brokers & Service",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:48+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GOCO"
+  ]
+}

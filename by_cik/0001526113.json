@@ -1,0 +1,28 @@
+{
+  "cik": "0001526113",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Global Net Lease, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:49+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "GNL",
+    "GNL-PA",
+    "GNL-PB",
+    "GNL-PD",
+    "GNL-PE"
+  ]
+}

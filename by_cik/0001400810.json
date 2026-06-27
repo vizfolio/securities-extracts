@@ -1,0 +1,22 @@
+{
+  "cik": "0001400810",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "HCI Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:38+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "HCI",
+    "HCIIP"
+  ]
+}

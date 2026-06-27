@@ -1,0 +1,26 @@
+{
+  "cik": "0002082866",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Pinnacle Financial Partners, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:32+00:00"
+  },
+  "state_of_incorporation": "GA",
+  "tickers": [
+    "PNFP",
+    "PNFP-PA",
+    "PNFP-PB",
+    "PNFP-PC"
+  ]
+}

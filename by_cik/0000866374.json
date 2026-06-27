@@ -1,0 +1,20 @@
+{
+  "cik": "0000866374",
+  "country": "Singapore",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "FLEX LTD.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3672",
+  "sic_description": "Printed Circuit Boards",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:37+00:00"
+  },
+  "state_of_incorporation": "U0",
+  "tickers": [
+    "FLEX"
+  ]
+}

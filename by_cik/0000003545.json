@@ -1,0 +1,20 @@
+{
+  "cik": "0000003545",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ALICO, INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "0100",
+  "sic_description": "Agricultural Production-Crops",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:44+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "ALCO"
+  ]
+}

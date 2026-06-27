@@ -1,0 +1,20 @@
+{
+  "cik": "0000045919",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "HARTE HANKS INC",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7331",
+  "sic_description": "Services-Direct Mail Advertising Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:20+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HHS"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000215466",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Coeur Mining, Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CDE"
+  ]
+}

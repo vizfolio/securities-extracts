@@ -1,0 +1,20 @@
+{
+  "cik": "0000851205",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "COGNEX CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3823",
+  "sic_description": "Industrial Instruments For Measurement, Display, and Control",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:29+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "CGNX"
+  ]
+}

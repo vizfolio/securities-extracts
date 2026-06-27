@@ -1,0 +1,38 @@
+{
+  "cik": "0001004980",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "PG&E Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4931",
+  "sic_description": "Electric & Other Services Combined",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:51+00:00"
+  },
+  "state_of_incorporation": "CA",
+  "tickers": [
+    "PCG",
+    "PCG-PE",
+    "PCG-PD",
+    "PCG-PC",
+    "PCG-PH",
+    "PCG-PG",
+    "PCG-PI",
+    "PCG-PA",
+    "PCG-PB",
+    "PCG-PX"
+  ]
+}

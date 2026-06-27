@@ -1,0 +1,20 @@
+{
+  "cik": "0001999001",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Six Flags Entertainment Corporation/NEW",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7900",
+  "sic_description": "Services-Amusement & Recreation Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:14+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FUN"
+  ]
+}

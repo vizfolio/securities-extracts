@@ -1,0 +1,20 @@
+{
+  "cik": "0001396536",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "DUOS TECHNOLOGIES GROUP, INC.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:36+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "DUOT"
+  ]
+}

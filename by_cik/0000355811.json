@@ -1,0 +1,20 @@
+{
+  "cik": "0000355811",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "GENTEX CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:39+00:00"
+  },
+  "state_of_incorporation": "MI",
+  "tickers": [
+    "GNTX"
+  ]
+}

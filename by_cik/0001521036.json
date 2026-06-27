@@ -1,0 +1,20 @@
+{
+  "cik": "0001521036",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Lantheus Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2835",
+  "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:47+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "LNTH"
+  ]
+}

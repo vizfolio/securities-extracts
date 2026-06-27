@@ -1,0 +1,20 @@
+{
+  "cik": "0001576940",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Century Communities, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "1531",
+  "sic_description": "Operative Builders",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:15+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CCS"
+  ]
+}

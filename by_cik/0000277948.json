@@ -1,0 +1,20 @@
+{
+  "cik": "0000277948",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CSX CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4011",
+  "sic_description": "Railroads, Line-Haul Operating",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:23+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "CSX"
+  ]
+}

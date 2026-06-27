@@ -1,0 +1,20 @@
+{
+  "cik": "0001855747",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Blend Labs, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7370",
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:37+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BLND"
+  ]
+}

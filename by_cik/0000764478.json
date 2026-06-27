@@ -1,0 +1,20 @@
+{
+  "cik": "0000764478",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BEST BUY CO INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5731",
+  "sic_description": "Retail-Radio, Tv & Consumer Electronics Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:47+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "BBY"
+  ]
+}

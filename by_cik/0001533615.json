@@ -1,0 +1,24 @@
+{
+  "cik": "0001533615",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Chiron Real Estate Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:55+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "XRN",
+    "XRN-PA",
+    "XRN-PB"
+  ]
+}

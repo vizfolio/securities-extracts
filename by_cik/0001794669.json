@@ -1,0 +1,22 @@
+{
+  "cik": "0001794669",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Shift4 Payments, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:38+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "FOUR",
+    "FOUR-PA"
+  ]
+}

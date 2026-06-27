@@ -1,0 +1,20 @@
+{
+  "cik": "0001562476",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Taylor Morrison Home Corp",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "1531",
+  "sic_description": "Operative Builders",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:06+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TMHC"
+  ]
+}

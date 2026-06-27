@@ -1,0 +1,22 @@
+{
+  "cik": "0000014693",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BROWN FORMAN CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "sic_description": "Beverages",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T19:04:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BF-A",
+    "BF-B"
+  ]
+}

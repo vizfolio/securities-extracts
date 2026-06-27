@@ -1,0 +1,20 @@
+{
+  "cik": "0001669811",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Donnelley Financial Solutions, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7380",
+  "sic_description": "Services-Miscellaneous Business Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:20+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DFIN"
+  ]
+}

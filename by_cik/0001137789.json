@@ -1,0 +1,20 @@
+{
+  "cik": "0001137789",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Seagate Technology Holdings plc",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3572",
+  "sic_description": "Computer Storage Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:13+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "STX"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001826889",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "Beachbody Company, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5960",
+  "sic_description": "Retail-Nonstore Retailers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:10+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BODI",
+    "BODYW"
+  ]
+}

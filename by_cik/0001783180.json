@@ -1,0 +1,20 @@
+{
+  "cik": "0001783180",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CARRIER GLOBAL Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3585",
+  "sic_description": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CARR"
+  ]
+}

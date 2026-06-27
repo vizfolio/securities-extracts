@@ -1,0 +1,20 @@
+{
+  "cik": "0000318833",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TEAM INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7600",
+  "sic_description": "Services-Miscellaneous Repair Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:32+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TISI"
+  ]
+}

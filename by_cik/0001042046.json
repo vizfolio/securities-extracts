@@ -1,0 +1,28 @@
+{
+  "cik": "0001042046",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "AMERICAN FINANCIAL GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:17+00:00"
+  },
+  "state_of_incorporation": "OH",
+  "tickers": [
+    "AFG",
+    "AFGB",
+    "AFGC",
+    "AFGD",
+    "AFGE"
+  ]
+}

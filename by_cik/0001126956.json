@@ -1,0 +1,22 @@
+{
+  "cik": "0001126956",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "SPIRE INC",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4924",
+  "sic_description": "Natural Gas Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:08+00:00"
+  },
+  "state_of_incorporation": "MO",
+  "tickers": [
+    "SR",
+    "SRJN"
+  ]
+}

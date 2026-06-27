@@ -1,0 +1,22 @@
+{
+  "cik": "0001823587",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Sky Harbour Group Corp",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:06+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SKYH",
+    "SKYH-WT"
+  ]
+}

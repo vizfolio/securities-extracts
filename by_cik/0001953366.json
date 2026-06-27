@@ -1,0 +1,20 @@
+{
+  "cik": "0001953366",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Star Holdings",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6519",
+  "sic_description": "Lessors of  Real Property, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:05+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "STHO"
+  ]
+}

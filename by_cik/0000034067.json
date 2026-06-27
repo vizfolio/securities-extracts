@@ -1,0 +1,20 @@
+{
+  "cik": "0000034067",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "DMC Global Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3390",
+  "sic_description": "Miscellaneous Primary Metal Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:11+00:00"
+  },
+  "state_of_incorporation": "CO",
+  "tickers": [
+    "BOOM"
+  ]
+}

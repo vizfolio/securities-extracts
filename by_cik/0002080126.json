@@ -1,0 +1,20 @@
+{
+  "cik": "0002080126",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Forgent Power Solutions, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3620",
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:32+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FPS"
+  ]
+}

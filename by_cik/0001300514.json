@@ -1,0 +1,20 @@
+{
+  "cik": "0001300514",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "LAS VEGAS SANDS CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7011",
+  "sic_description": "Hotels & Motels",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:56+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "LVS"
+  ]
+}

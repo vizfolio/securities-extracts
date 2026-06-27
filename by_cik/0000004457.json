@@ -1,0 +1,22 @@
+{
+  "cik": "0000004457",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "U-Haul Holding Co /NV/",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7510",
+  "sic_description": "Services-Auto Rental & Leasing (No Drivers)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:45+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "UHAL",
+    "UHAL-B"
+  ]
+}

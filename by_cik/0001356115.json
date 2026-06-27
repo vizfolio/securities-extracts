@@ -1,0 +1,22 @@
+{
+  "cik": "0001356115",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "NEXPOINT DIVERSIFIED REAL ESTATE TRUST",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NXDT",
+    "NXDT-PA"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001856525",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Core & Main, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5099",
+  "sic_description": "Wholesale-Durable Goods, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:39+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CNM"
+  ]
+}

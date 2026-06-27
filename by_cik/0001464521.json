@@ -1,0 +1,20 @@
+{
+  "cik": "0001464521",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Heartflow, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:13+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HTFL"
+  ]
+}

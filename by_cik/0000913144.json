@@ -1,0 +1,24 @@
+{
+  "cik": "0000913144",
+  "country": "Bermuda",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "RENAISSANCERE HOLDINGS LTD",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:19+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "RNR",
+    "RNR-PF",
+    "RNR-PG"
+  ]
+}

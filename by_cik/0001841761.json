@@ -1,0 +1,22 @@
+{
+  "cik": "0001841761",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "Grove Collaborative Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5961",
+  "sic_description": "Retail-Catalog & Mail-Order Houses",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:27+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GROV",
+    "GROVW"
+  ]
+}

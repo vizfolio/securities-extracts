@@ -1,0 +1,20 @@
+{
+  "cik": "0000928658",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "COVENANT LOGISTICS GROUP, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4213",
+  "sic_description": "Trucking (No Local)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:35+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "CVLG"
+  ]
+}

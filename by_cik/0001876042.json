@@ -1,0 +1,20 @@
+{
+  "cik": "0001876042",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Circle Internet Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:50+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CRCL"
+  ]
+}

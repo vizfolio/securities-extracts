@@ -1,0 +1,22 @@
+{
+  "cik": "0001819438",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "ESS Tech, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3690",
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GWH",
+    "GWH-WT"
+  ]
+}

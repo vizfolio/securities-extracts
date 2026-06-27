@@ -1,0 +1,20 @@
+{
+  "cik": "0000056701",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "KOSS CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3651",
+  "sic_description": "Household Audio & Video Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:28+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "KOSS"
+  ]
+}

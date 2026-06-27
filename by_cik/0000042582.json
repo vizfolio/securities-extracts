@@ -1,0 +1,20 @@
+{
+  "cik": "0000042582",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "GOODYEAR TIRE & RUBBER CO /OH/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3011",
+  "sic_description": "Tires & Inner Tubes",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:18+00:00"
+  },
+  "state_of_incorporation": "OH",
+  "tickers": [
+    "GT"
+  ]
+}

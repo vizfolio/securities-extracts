@@ -1,0 +1,20 @@
+{
+  "cik": "0001600033",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "e.l.f. Beauty, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2844",
+  "sic_description": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:32+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ELF"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001834622",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Hayward Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3580",
+  "sic_description": "Refrigeration & Service Industry Machinery",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:20+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "HAYW"
+  ]
+}

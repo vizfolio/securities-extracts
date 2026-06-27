@@ -1,0 +1,20 @@
+{
+  "cik": "0001690334",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SEACOR Marine Holdings Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4412",
+  "sic_description": "Deep Sea Foreign Transportation of  Freight",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:35+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SMHI"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001468327",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Rent the Runway, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5990",
+  "sic_description": "Retail-Retail Stores, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RENT"
+  ]
+}

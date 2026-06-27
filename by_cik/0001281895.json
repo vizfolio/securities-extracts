@@ -1,0 +1,22 @@
+{
+  "cik": "0001281895",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "ROCKET PHARMACEUTICALS, INC.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:47+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RCKT",
+    "RCKTW"
+  ]
+}

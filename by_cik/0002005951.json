@@ -1,0 +1,20 @@
+{
+  "cik": "0002005951",
+  "country": "Ireland",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Smurfit Westrock plc",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2650",
+  "sic_description": "Paperboard Containers & Boxes",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:15+00:00"
+  },
+  "state_of_incorporation": "L2",
+  "tickers": [
+    "SW"
+  ]
+}

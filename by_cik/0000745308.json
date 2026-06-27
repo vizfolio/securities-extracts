@@ -1,0 +1,20 @@
+{
+  "cik": "0000745308",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ST JOE Co",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6552",
+  "sic_description": "Land Subdividers & Developers (No Cemeteries)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:37+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "JOE"
+  ]
+}

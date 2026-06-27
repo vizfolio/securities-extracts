@@ -1,0 +1,20 @@
+{
+  "cik": "0001784570",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BETA Technologies, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BETA"
+  ]
+}

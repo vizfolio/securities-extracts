@@ -1,0 +1,20 @@
+{
+  "cik": "0000024741",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CORNING INC /NY",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3357",
+  "sic_description": "Drawing & Insulating of  Nonferrous Wire",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:02+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "GLW"
+  ]
+}

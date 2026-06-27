@@ -1,0 +1,20 @@
+{
+  "cik": "0001092796",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SMITH & WESSON BRANDS, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3480",
+  "sic_description": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:52+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "SWBI"
+  ]
+}

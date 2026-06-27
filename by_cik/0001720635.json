@@ -1,0 +1,20 @@
+{
+  "cik": "0001720635",
+  "country": "Ireland",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "nVent Electric plc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3550",
+  "sic_description": "Special Industry Machinery (No Metalworking Machinery)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:56+00:00"
+  },
+  "state_of_incorporation": "L2",
+  "tickers": [
+    "NVT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000008504",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "AgEagle Aerial Systems Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:50+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "UAVS"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0000838875",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "WILLAMETTE VALLEY VINEYARDS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "sic_description": "Beverages",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:25+00:00"
+  },
+  "state_of_incorporation": "OR",
+  "tickers": [
+    "WVVI",
+    "WVVIP"
+  ]
+}

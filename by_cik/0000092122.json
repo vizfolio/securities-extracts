@@ -1,0 +1,30 @@
+{
+  "cik": "0000092122",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "SOUTHERN CO",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SO",
+    "SOJC",
+    "SOJD",
+    "SOJE",
+    "SOJF",
+    "SOMN"
+  ]
+}

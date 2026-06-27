@@ -1,0 +1,22 @@
+{
+  "cik": "0001883814",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Southland Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:53+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SLND",
+    "SLND-WT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000060667",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "LOWES COMPANIES INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5211",
+  "sic_description": "Retail-Lumber & Other Building Materials Dealers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:32+00:00"
+  },
+  "state_of_incorporation": "NC",
+  "tickers": [
+    "LOW"
+  ]
+}

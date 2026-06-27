@@ -1,0 +1,20 @@
+{
+  "cik": "0001804176",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Butterfly Network, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3844",
+  "sic_description": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:45+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BFLY"
+  ]
+}

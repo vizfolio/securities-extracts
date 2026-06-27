@@ -1,0 +1,20 @@
+{
+  "cik": "0001289945",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Spok Holdings, Inc",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4812",
+  "sic_description": "Radiotelephone Communications",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:52+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SPOK"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001531031",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Esquire Financial Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6029",
+  "sic_description": "Commercial Banks, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:54+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "ESQ"
+  ]
+}

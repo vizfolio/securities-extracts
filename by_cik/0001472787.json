@@ -1,0 +1,20 @@
+{
+  "cik": "0001472787",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "First American Financial Corp",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6361",
+  "sic_description": "Title Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:17+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FAF"
+  ]
+}

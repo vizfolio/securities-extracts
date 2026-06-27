@@ -1,0 +1,20 @@
+{
+  "cik": "0000799850",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "AMERICAS CARMART INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5500",
+  "sic_description": "Retail-Auto Dealers & Gasoline Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:06+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "CRMT"
+  ]
+}

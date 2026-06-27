@@ -1,0 +1,20 @@
+{
+  "cik": "0001903595",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Brag House Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T19:04:34+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TBH"
+  ]
+}

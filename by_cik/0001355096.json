@@ -1,0 +1,24 @@
+{
+  "cik": "0001355096",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "name": "QVC Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5961",
+  "sic_description": "Retail-Catalog & Mail-Order Houses",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:15+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "QVCAQ",
+    "QVCGQ",
+    "QVCPQ"
+  ]
+}

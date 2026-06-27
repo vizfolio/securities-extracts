@@ -1,0 +1,20 @@
+{
+  "cik": "0000924822",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MILLER INDUSTRIES INC /TN/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3713",
+  "sic_description": "Truck & Bus Bodies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:31+00:00"
+  },
+  "state_of_incorporation": "TN",
+  "tickers": [
+    "MLR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000911147",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CENTURY CASINOS INC /CO/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7011",
+  "sic_description": "Hotels & Motels",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CNTY"
+  ]
+}

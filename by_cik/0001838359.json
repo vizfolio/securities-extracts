@@ -1,0 +1,22 @@
+{
+  "cik": "0001838359",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Rigetti Computing, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7371",
+  "sic_description": "Services-Computer Programming Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:23+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RGTI",
+    "RGTIW"
+  ]
+}

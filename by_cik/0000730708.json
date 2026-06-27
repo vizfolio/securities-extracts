@@ -1,0 +1,20 @@
+{
+  "cik": "0000730708",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SEACOAST BANKING CORP OF FLORIDA",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:28+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "SBCF"
+  ]
+}

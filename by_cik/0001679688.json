@@ -1,0 +1,26 @@
+{
+  "cik": "0001679688",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "DigitalBridge Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:28+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "DBRG",
+    "DBRG-PH",
+    "DBRG-PI",
+    "DBRG-PJ"
+  ]
+}

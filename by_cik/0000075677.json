@@ -1,0 +1,20 @@
+{
+  "cik": "0000075677",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "PACKAGING CORP OF AMERICA",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2650",
+  "sic_description": "Paperboard Containers & Boxes",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:50+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "PKG"
+  ]
+}

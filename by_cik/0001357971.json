@@ -1,0 +1,20 @@
+{
+  "cik": "0001357971",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Energy Services of America CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1623",
+  "sic_description": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:17+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ESOA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0000863110",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "ARTESIAN RESOURCES CORP",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4941",
+  "sic_description": "Water Supply",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:36+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ARTNA",
+    "ARTNB"
+  ]
+}

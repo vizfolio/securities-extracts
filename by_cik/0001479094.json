@@ -1,0 +1,20 @@
+{
+  "cik": "0001479094",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "STAG Industrial, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:23+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "STAG"
+  ]
+}

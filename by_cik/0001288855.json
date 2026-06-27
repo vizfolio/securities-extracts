@@ -1,0 +1,20 @@
+{
+  "cik": "0001288855",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "OptimumBank Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:50+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "OPHC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000024090",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CITIZENS, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:01+00:00"
+  },
+  "state_of_incorporation": "CO",
+  "tickers": [
+    "CIA"
+  ]
+}

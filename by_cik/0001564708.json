@@ -1,0 +1,24 @@
+{
+  "cik": "0001564708",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "NEWS CORP",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "2711",
+  "sic_description": "Newspapers: Publishing or  Publishing & Printing",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:07+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NWSA",
+    "NWS",
+    "NWSLL"
+  ]
+}

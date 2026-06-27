@@ -1,0 +1,20 @@
+{
+  "cik": "0000918965",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SCANSOURCE, INC.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "5045",
+  "sic_description": "Wholesale-Computers & Peripheral Equipment & Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:26+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "SCSC"
+  ]
+}

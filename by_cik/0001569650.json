@@ -1,0 +1,22 @@
+{
+  "cik": "0001569650",
+  "country": "US",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Bank OZK",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:10+00:00"
+  },
+  "state_of_incorporation": "AR",
+  "tickers": [
+    "OZK",
+    "OZKAP"
+  ]
+}

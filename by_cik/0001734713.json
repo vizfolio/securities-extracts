@@ -1,0 +1,20 @@
+{
+  "cik": "0001734713",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BrightView Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "0700",
+  "sic_description": "Agricultural Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:03+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BV"
+  ]
+}

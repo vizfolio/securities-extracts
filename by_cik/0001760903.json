@@ -1,0 +1,20 @@
+{
+  "cik": "0001760903",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "BONK, INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2844",
+  "sic_description": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:18+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BNKK"
+  ]
+}

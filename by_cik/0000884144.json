@@ -1,0 +1,20 @@
+{
+  "cik": "0000884144",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ASURE SOFTWARE INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:51+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ASUR"
+  ]
+}

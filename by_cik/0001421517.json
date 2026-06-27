@@ -1,0 +1,20 @@
+{
+  "cik": "0001421517",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Energy Recovery, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3559",
+  "sic_description": "Special Industry Machinery, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:51+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ERII"
+  ]
+}

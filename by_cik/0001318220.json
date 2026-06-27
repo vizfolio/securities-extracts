@@ -1,0 +1,20 @@
+{
+  "cik": "0001318220",
+  "country": "Ontario, Canada",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Waste Connections, Inc.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4953",
+  "sic_description": "Refuse Systems",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:01+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "WCN"
+  ]
+}

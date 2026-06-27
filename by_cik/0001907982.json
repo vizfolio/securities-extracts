@@ -1,0 +1,20 @@
+{
+  "cik": "0001907982",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "D-Wave Quantum Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "QBTS"
+  ]
+}

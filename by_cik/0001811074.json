@@ -1,0 +1,20 @@
+{
+  "cik": "0001811074",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Texas Pacific Land Corp",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "6792",
+  "sic_description": "Oil Royalty Traders",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:51+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TPL"
+  ]
+}

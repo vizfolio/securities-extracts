@@ -1,0 +1,20 @@
+{
+  "cik": "0001133421",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "NORTHROP GRUMMAN CORP /DE/",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3812",
+  "sic_description": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:11+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "NOC"
+  ]
+}

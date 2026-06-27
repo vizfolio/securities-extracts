@@ -1,0 +1,20 @@
+{
+  "cik": "0000917225",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SOLITARIO RESOURCES CORP.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:24+00:00"
+  },
+  "state_of_incorporation": "CO",
+  "tickers": [
+    "XPL"
+  ]
+}

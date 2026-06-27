@@ -1,0 +1,22 @@
+{
+  "cik": "0000072573",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "MOVADO GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3873",
+  "sic_description": "Watches, Clocks, Clockwork Operated Devices/Parts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:46+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "MOV",
+    "MOVAA"
+  ]
+}

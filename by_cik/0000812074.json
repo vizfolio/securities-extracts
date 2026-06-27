@@ -1,0 +1,20 @@
+{
+  "cik": "0000812074",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "O-I Glass, Inc. /DE/",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3221",
+  "sic_description": "Glass Containers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:11+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "OI"
+  ]
+}

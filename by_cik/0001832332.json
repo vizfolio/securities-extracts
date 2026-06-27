@@ -1,0 +1,20 @@
+{
+  "cik": "0001832332",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Aveanna Healthcare Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8082",
+  "sic_description": "Services-Home Health Care Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:17+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AVAH"
+  ]
+}

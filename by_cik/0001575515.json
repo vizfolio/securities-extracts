@@ -1,0 +1,20 @@
+{
+  "cik": "0001575515",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Sprouts Farmers Market, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5411",
+  "sic_description": "Retail-Grocery Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:14+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SFM"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0000845877",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "FEDERAL AGRICULTURAL MORTGAGE CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6111",
+  "sic_description": "Federal & Federally-Sponsored Credit Agencies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:27+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "AGM",
+    "AGM-A",
+    "AGM-PD",
+    "AGM-PE",
+    "AGM-PF",
+    "AGM-PG",
+    "AGM-PH",
+    "AGM-PI"
+  ]
+}

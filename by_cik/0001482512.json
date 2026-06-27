@@ -1,0 +1,22 @@
+{
+  "cik": "0001482512",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Hudson Pacific Properties, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:24+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "HPP",
+    "HPP-PC"
+  ]
+}

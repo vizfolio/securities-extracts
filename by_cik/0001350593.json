@@ -1,0 +1,20 @@
+{
+  "cik": "0001350593",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Mueller Water Products, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3490",
+  "sic_description": "Miscellaneous Fabricated Metal Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:13+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MWA"
+  ]
+}

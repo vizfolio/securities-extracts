@@ -1,0 +1,52 @@
+{
+  "cik": "0000070858",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BANK OF AMERICA CORP /DE/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:19+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BAC",
+    "BML-PG",
+    "BML-PL",
+    "BAC-PB",
+    "BAC-PK",
+    "BAC-PE",
+    "BAC-PL",
+    "BAC-PM",
+    "BAC-PN",
+    "BAC-PO",
+    "BAC-PP",
+    "BAC-PQ",
+    "BAC-PS",
+    "BACRP",
+    "BML-PH",
+    "BML-PJ",
+    "MER-PK"
+  ]
+}

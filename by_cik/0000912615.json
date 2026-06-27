@@ -1,0 +1,20 @@
+{
+  "cik": "0000912615",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "URBAN OUTFITTERS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "sic_description": "Retail-Family Clothing Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:18+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "URBN"
+  ]
+}

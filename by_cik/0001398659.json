@@ -1,0 +1,20 @@
+{
+  "cik": "0001398659",
+  "country": "Bermuda",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Genpact LTD",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:37+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "G"
+  ]
+}

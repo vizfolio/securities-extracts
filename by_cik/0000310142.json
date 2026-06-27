@@ -1,0 +1,20 @@
+{
+  "cik": "0000310142",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SENSIENT TECHNOLOGIES CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:24+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "SXT"
+  ]
+}

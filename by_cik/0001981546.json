@@ -1,0 +1,20 @@
+{
+  "cik": "0001981546",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Commercial Bancgroup, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:11+00:00"
+  },
+  "state_of_incorporation": "TN",
+  "tickers": [
+    "CBK"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001816017",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Spire Global, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4899",
+  "sic_description": "Communications Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:53+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SPIR"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001434621",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "LendingTree, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6163",
+  "sic_description": "Loan Brokers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TREE"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000020212",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Churchill Downs Inc",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7948",
+  "sic_description": "Services-Racing, Including Track Operation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:58+00:00"
+  },
+  "state_of_incorporation": "KY",
+  "tickers": [
+    "CHDN"
+  ]
+}

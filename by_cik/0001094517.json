@@ -1,0 +1,22 @@
+{
+  "cik": "0001094517",
+  "country": "Japan",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "TOYOTA MOTOR CORP/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3711",
+  "sic_description": "Motor Vehicles & Passenger Car Bodies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:23+00:00"
+  },
+  "state_of_incorporation": "M0",
+  "tickers": [
+    "TM",
+    "TOYOF"
+  ]
+}

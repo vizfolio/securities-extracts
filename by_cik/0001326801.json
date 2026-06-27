@@ -1,0 +1,20 @@
+{
+  "cik": "0001326801",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Meta Platforms, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7370",
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "META"
+  ]
+}

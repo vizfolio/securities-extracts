@@ -1,0 +1,20 @@
+{
+  "cik": "0000908255",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BORGWARNER INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:13+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BWA"
+  ]
+}

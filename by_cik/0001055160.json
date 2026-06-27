@@ -1,0 +1,28 @@
+{
+  "cik": "0001055160",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "MFA FINANCIAL, INC.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:29+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "MFA",
+    "MFAN",
+    "MFAO",
+    "MFA-PB",
+    "MFA-PC"
+  ]
+}

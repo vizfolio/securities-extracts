@@ -1,0 +1,20 @@
+{
+  "cik": "0001009829",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "JAKKS PACIFIC INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3944",
+  "sic_description": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:54+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "JAKK"
+  ]
+}

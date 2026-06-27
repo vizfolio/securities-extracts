@@ -1,0 +1,20 @@
+{
+  "cik": "0001017303",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "TRANSACT TECHNOLOGIES INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3577",
+  "sic_description": "Computer Peripheral Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TACT"
+  ]
+}

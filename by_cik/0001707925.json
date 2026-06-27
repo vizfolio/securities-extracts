@@ -1,0 +1,20 @@
+{
+  "cik": "0001707925",
+  "country": "Ireland",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "LINDE PLC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2810",
+  "sic_description": "Industrial Inorganic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:25+00:00"
+  },
+  "state_of_incorporation": "L2",
+  "tickers": [
+    "LIN"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000799165",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "DAWSON GEOPHYSICAL CO",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1382",
+  "sic_description": "Oil & Gas Field Exploration Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:05+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "DWSN"
+  ]
+}

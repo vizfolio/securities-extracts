@@ -1,0 +1,22 @@
+{
+  "cik": "0001032033",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "SLM Corp",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6141",
+  "sic_description": "Personal Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:08+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SLM",
+    "SLMBP"
+  ]
+}

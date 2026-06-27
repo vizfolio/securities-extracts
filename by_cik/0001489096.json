@@ -1,0 +1,20 @@
+{
+  "cik": "0001489096",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Thermon Group Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3620",
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:28+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "THR"
+  ]
+}

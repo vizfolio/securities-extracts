@@ -1,0 +1,20 @@
+{
+  "cik": "0001740604",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "BITGO HOLDINGS, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:07+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BTGO"
+  ]
+}

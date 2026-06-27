@@ -1,0 +1,20 @@
+{
+  "cik": "0001873923",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Orion Properties Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:48+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "ONL"
+  ]
+}

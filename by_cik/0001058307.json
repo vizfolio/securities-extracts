@@ -1,0 +1,20 @@
+{
+  "cik": "0001058307",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "NextPlat Corp",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:33+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "NXPL"
+  ]
+}

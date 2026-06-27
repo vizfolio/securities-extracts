@@ -1,0 +1,20 @@
+{
+  "cik": "0001748824",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Acadian Asset Management Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:11+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AAMI"
+  ]
+}

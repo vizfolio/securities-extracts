@@ -1,0 +1,20 @@
+{
+  "cik": "0002024218",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Summit Midstream Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4922",
+  "sic_description": "Natural Gas Transmission",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:22+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SMC"
+  ]
+}

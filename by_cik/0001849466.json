@@ -1,0 +1,20 @@
+{
+  "cik": "0001849466",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Texas Community Bancshares, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6036",
+  "sic_description": "Savings Institutions, Not Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:33+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "TCBS"
+  ]
+}

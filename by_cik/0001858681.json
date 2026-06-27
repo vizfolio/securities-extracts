@@ -1,0 +1,24 @@
+{
+  "cik": "0001858681",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Apollo Global Management, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:39+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "APO",
+    "APO-PA",
+    "APOS"
+  ]
+}

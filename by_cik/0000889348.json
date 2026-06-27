@@ -1,0 +1,20 @@
+{
+  "cik": "0000889348",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CPI AEROSTRUCTURES INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3728",
+  "sic_description": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:58+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "CVU"
+  ]
+}

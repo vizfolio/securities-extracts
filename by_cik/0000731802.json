@@ -1,0 +1,20 @@
+{
+  "cik": "0000731802",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ATMOS ENERGY CORP",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4924",
+  "sic_description": "Natural Gas Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:29+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "ATO"
+  ]
+}

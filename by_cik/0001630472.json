@@ -1,0 +1,22 @@
+{
+  "cik": "0001630472",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "TPG RE Finance Trust, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:53+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "TRTX",
+    "TRTX-PC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001466593",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Otter Tail Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:14+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "OTTR"
+  ]
+}

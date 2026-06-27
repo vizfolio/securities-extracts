@@ -1,0 +1,20 @@
+{
+  "cik": "0001053706",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CRA INTERNATIONAL, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8111",
+  "sic_description": "Services-Legal Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:28+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "CRAI"
+  ]
+}

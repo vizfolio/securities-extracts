@@ -1,0 +1,20 @@
+{
+  "cik": "0000069633",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "NAPCO SECURITY TECHNOLOGIES, INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3669",
+  "sic_description": "Communications Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:42+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NSSC"
+  ]
+}

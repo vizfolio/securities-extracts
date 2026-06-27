@@ -1,0 +1,20 @@
+{
+  "cik": "0001141197",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "PEDEVCO CORP",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:14+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "PED"
+  ]
+}

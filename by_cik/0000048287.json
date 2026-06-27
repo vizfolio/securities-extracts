@@ -1,0 +1,20 @@
+{
+  "cik": "0000048287",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "HNI CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2522",
+  "sic_description": "Office Furniture (No Wood)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:22+00:00"
+  },
+  "state_of_incorporation": "IA",
+  "tickers": [
+    "HNI"
+  ]
+}

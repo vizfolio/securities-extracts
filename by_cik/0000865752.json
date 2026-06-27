@@ -1,0 +1,20 @@
+{
+  "cik": "0000865752",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Monster Beverage Corp",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2086",
+  "sic_description": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:37+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MNST"
+  ]
+}

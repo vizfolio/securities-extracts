@@ -1,0 +1,20 @@
+{
+  "cik": "0001022671",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "STEEL DYNAMICS INC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3312",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:02+00:00"
+  },
+  "state_of_incorporation": "IN",
+  "tickers": [
+    "STLD"
+  ]
+}

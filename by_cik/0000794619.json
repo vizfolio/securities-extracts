@@ -1,0 +1,20 @@
+{
+  "cik": "0000794619",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "AMERICAN WOODMARK CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2430",
+  "sic_description": "Millwood, Veneer, Plywood, & Structural Wood Members",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:01+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "AMWD"
+  ]
+}

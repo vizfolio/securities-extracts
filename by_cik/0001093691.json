@@ -1,0 +1,20 @@
+{
+  "cik": "0001093691",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "PLUG POWER INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3620",
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:53+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PLUG"
+  ]
+}

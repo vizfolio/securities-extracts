@@ -1,0 +1,20 @@
+{
+  "cik": "0001579091",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Maplebear Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:17+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CART"
+  ]
+}

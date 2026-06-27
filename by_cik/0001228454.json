@@ -1,0 +1,20 @@
+{
+  "cik": "0001228454",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "BCB BANCORP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:35+00:00"
+  },
+  "state_of_incorporation": "NJ",
+  "tickers": [
+    "BCBP"
+  ]
+}

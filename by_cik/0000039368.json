@@ -1,0 +1,20 @@
+{
+  "cik": "0000039368",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "FULLER H B CO",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2891",
+  "sic_description": "Adhesives & Sealants",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:16+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "FUL"
+  ]
+}

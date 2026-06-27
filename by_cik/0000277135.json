@@ -1,0 +1,20 @@
+{
+  "cik": "0000277135",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "W.W. GRAINGER, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5000",
+  "sic_description": "Wholesale-Durable Goods",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:23+00:00"
+  },
+  "state_of_incorporation": "IL",
+  "tickers": [
+    "GWW"
+  ]
+}

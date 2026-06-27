@@ -1,0 +1,22 @@
+{
+  "cik": "0001865506",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Zeo Energy Corp.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1700",
+  "sic_description": "Construction - Special Trade Contractors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:43+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ZEO",
+    "ZEOWW"
+  ]
+}

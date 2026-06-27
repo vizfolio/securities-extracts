@@ -1,0 +1,20 @@
+{
+  "cik": "0000351789",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ELECTRO SENSORS INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3823",
+  "sic_description": "Industrial Instruments For Measurement, Display, and Control",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:35+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "ELSE"
+  ]
+}

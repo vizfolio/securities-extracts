@@ -1,0 +1,20 @@
+{
+  "cik": "0001065078",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "NETWORK-1 TECHNOLOGIES, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "6794",
+  "sic_description": "Patent Owners & Lessors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:36+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "NTIP"
+  ]
+}

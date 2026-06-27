@@ -1,0 +1,20 @@
+{
+  "cik": "0001644378",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RMR GROUP INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:03+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "RMR"
+  ]
+}

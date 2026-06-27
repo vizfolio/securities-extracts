@@ -1,0 +1,20 @@
+{
+  "cik": "0001043277",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "C. H. ROBINSON WORLDWIDE, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4731",
+  "sic_description": "Arrangement of  Transportation of  Freight & Cargo",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:18+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CHRW"
+  ]
+}

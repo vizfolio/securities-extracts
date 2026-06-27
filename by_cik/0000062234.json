@@ -1,0 +1,20 @@
+{
+  "cik": "0000062234",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MARCUS CORP",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7830",
+  "sic_description": "Services-Motion Picture Theaters",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:34+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "MCS"
+  ]
+}

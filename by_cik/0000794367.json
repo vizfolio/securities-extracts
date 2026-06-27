@@ -1,0 +1,20 @@
+{
+  "cik": "0000794367",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Macy's, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5311",
+  "sic_description": "Retail-Department Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:01+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "M"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001224608",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "CNO Financial Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6321",
+  "sic_description": "Accident & Health Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:34+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CNO",
+    "CNO-PA"
+  ]
+}

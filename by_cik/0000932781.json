@@ -1,0 +1,20 @@
+{
+  "cik": "0000932781",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "FIRST COMMUNITY CORP /SC/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:37+00:00"
+  },
+  "state_of_incorporation": "SC",
+  "tickers": [
+    "FCCO"
+  ]
+}

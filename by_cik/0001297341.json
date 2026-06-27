@@ -1,0 +1,20 @@
+{
+  "cik": "0001297341",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Kentucky First Federal Bancorp",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:54+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "KFFB"
+  ]
+}

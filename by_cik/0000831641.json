@@ -1,0 +1,20 @@
+{
+  "cik": "0000831641",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "TETRA TECH INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8711",
+  "sic_description": "Services-Engineering Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:22+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TTEK"
+  ]
+}

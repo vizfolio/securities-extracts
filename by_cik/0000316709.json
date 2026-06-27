@@ -1,0 +1,24 @@
+{
+  "cik": "0000316709",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "SCHWAB CHARLES CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:29+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SCHW",
+    "SCHW-PD",
+    "SCHW-PJ"
+  ]
+}

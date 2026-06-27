@@ -1,0 +1,20 @@
+{
+  "cik": "0000740664",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "R F INDUSTRIES LTD",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3678",
+  "sic_description": "Electronic Connectors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:35+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "RFIL"
+  ]
+}

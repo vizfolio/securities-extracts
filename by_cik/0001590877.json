@@ -1,0 +1,20 @@
+{
+  "cik": "0001590877",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "REGENXBIO Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:26+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "RGNX"
+  ]
+}

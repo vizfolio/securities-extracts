@@ -1,0 +1,20 @@
+{
+  "cik": "0001438472",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MIAMI INTERNATIONAL HOLDINGS, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:03+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MIAX"
+  ]
+}

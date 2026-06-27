@@ -1,0 +1,20 @@
+{
+  "cik": "0000910638",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "3D SYSTEMS CORP",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DDD"
+  ]
+}

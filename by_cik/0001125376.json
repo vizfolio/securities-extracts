@@ -1,0 +1,20 @@
+{
+  "cik": "0001125376",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ENSIGN GROUP, INC",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8051",
+  "sic_description": "Services-Skilled Nursing Care Facilities",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:08+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ENSG"
+  ]
+}

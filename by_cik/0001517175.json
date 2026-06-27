@@ -1,0 +1,20 @@
+{
+  "cik": "0001517175",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Chefs' Warehouse, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5141",
+  "sic_description": "Wholesale-Groceries, General Line",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:44+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CHEF"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000066382",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "MILLERKNOLL, INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2520",
+  "sic_description": "Office Furniture",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:40+00:00"
+  },
+  "state_of_incorporation": "MI",
+  "tickers": [
+    "MLKN"
+  ]
+}

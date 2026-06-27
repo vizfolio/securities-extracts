@@ -1,0 +1,20 @@
+{
+  "cik": "0001807794",
+  "country": "Cayman Islands",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Credo Technology Group Holding Ltd",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:48+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "CRDO"
+  ]
+}

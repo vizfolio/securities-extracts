@@ -1,0 +1,20 @@
+{
+  "cik": "0001371489",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Information Services Group Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:23+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "III"
+  ]
+}

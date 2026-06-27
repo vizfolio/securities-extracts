@@ -1,0 +1,30 @@
+{
+  "cik": "0001514281",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "TPG Mortgage Investment Trust, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:41+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MITT",
+    "MITT-PA",
+    "MITT-PB",
+    "MITN",
+    "MITP",
+    "MITT-PC"
+  ]
+}

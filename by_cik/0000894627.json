@@ -1,0 +1,20 @@
+{
+  "cik": "0000894627",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "VAALCO ENERGY INC /DE/",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "EGY"
+  ]
+}

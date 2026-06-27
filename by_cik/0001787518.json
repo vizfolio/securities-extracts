@@ -1,0 +1,22 @@
+{
+  "cik": "0001787518",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "T3 Defense Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:34+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DFNS",
+    "DFNSW"
+  ]
+}

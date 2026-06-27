@@ -1,0 +1,20 @@
+{
+  "cik": "0001530804",
+  "country": "United Kingdom",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Tronox Holdings plc",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2810",
+  "sic_description": "Industrial Inorganic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:54+00:00"
+  },
+  "state_of_incorporation": "X0",
+  "tickers": [
+    "TROX"
+  ]
+}

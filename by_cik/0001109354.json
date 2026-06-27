@@ -1,0 +1,22 @@
+{
+  "cik": "0001109354",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "BRUKER CORP",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3826",
+  "sic_description": "Laboratory Analytical Instruments",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:01+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BRKR",
+    "BRKRP"
+  ]
+}

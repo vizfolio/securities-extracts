@@ -1,0 +1,22 @@
+{
+  "cik": "0000025475",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "CRAWFORD & CO",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6411",
+  "sic_description": "Insurance Agents, Brokers & Service",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T19:04:33+00:00"
+  },
+  "state_of_incorporation": "GA",
+  "tickers": [
+    "CRD-A",
+    "CRD-B"
+  ]
+}

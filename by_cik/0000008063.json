@@ -1,0 +1,22 @@
+{
+  "cik": "0000008063",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "ASTRONICS CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3728",
+  "sic_description": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:49+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "ATRO",
+    "ATROB"
+  ]
+}

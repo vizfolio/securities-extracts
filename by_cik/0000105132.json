@@ -1,0 +1,20 @@
+{
+  "cik": "0000105132",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "WD 40 CO",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2890",
+  "sic_description": "Miscellaneous Chemical Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:15+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "WDFC"
+  ]
+}

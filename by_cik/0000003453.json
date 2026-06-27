@@ -1,0 +1,20 @@
+{
+  "cik": "0000003453",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Matson, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4400",
+  "sic_description": "Water Transportation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:43+00:00"
+  },
+  "state_of_incorporation": "HI",
+  "tickers": [
+    "MATX"
+  ]
+}

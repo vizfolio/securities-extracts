@@ -1,0 +1,24 @@
+{
+  "cik": "0000907254",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "SAUL CENTERS, INC.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:12+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "BFS",
+    "BFS-PD",
+    "BFS-PE"
+  ]
+}

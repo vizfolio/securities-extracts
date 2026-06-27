@@ -1,0 +1,24 @@
+{
+  "cik": "0001865631",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "NEXTNAV INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3812",
+  "sic_description": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:43+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NN",
+    "NNAVW",
+    "NXNVW"
+  ]
+}

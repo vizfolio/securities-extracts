@@ -1,0 +1,22 @@
+{
+  "cik": "0000102752",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "VSE CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8711",
+  "sic_description": "Services-Engineering Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:13+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VSEC",
+    "VSECU"
+  ]
+}

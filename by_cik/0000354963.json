@@ -1,0 +1,20 @@
+{
+  "cik": "0000354963",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:39+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "SHEN"
+  ]
+}

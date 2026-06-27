@@ -1,0 +1,22 @@
+{
+  "cik": "0001169770",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BANC OF CALIFORNIA, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:24+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "BANC",
+    "BANC-PF"
+  ]
+}

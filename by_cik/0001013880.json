@@ -1,0 +1,20 @@
+{
+  "cik": "0001013880",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "TTEC Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:56+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "TTEC"
+  ]
+}

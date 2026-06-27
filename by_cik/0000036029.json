@@ -1,0 +1,20 @@
+{
+  "cik": "0000036029",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "FIRST FINANCIAL BANKSHARES INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:12+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "FFIN"
+  ]
+}

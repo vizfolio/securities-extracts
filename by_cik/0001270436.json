@@ -1,0 +1,20 @@
+{
+  "cik": "0001270436",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Cohen & Co Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:42+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "COHN"
+  ]
+}

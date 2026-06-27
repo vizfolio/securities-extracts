@@ -1,0 +1,20 @@
+{
+  "cik": "0000783412",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "DAILY JOURNAL CORP",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "2711",
+  "sic_description": "Newspapers: Publishing or  Publishing & Printing",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:53+00:00"
+  },
+  "state_of_incorporation": "SC",
+  "tickers": [
+    "DJCO"
+  ]
+}

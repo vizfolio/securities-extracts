@@ -1,0 +1,20 @@
+{
+  "cik": "0001041859",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Childrens Place, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5651",
+  "sic_description": "Retail-Family Clothing Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:17+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "PLCE"
+  ]
+}

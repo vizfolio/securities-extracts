@@ -1,0 +1,20 @@
+{
+  "cik": "0001487197",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "BARFRESH FOOD GROUP INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2030",
+  "sic_description": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BRFH"
+  ]
+}

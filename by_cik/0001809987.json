@@ -1,0 +1,20 @@
+{
+  "cik": "0001809987",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Mirion Technologies, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3829",
+  "sic_description": "Measuring & Controlling Devices, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:49+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MIR"
+  ]
+}

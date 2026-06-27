@@ -1,0 +1,20 @@
+{
+  "cik": "0001041368",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RIVERVIEW BANCORP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:16+00:00"
+  },
+  "state_of_incorporation": "WA",
+  "tickers": [
+    "RVSB"
+  ]
+}

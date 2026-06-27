@@ -1,0 +1,20 @@
+{
+  "cik": "0001516513",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Doximity, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7371",
+  "sic_description": "Services-Computer Programming Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:43+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DOCS"
+  ]
+}

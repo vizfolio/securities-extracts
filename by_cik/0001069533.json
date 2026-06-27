@@ -1,0 +1,20 @@
+{
+  "cik": "0001069533",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RGC RESOURCES INC",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4923",
+  "sic_description": "Natural Gas Transmisison & Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:40+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "RGCO"
+  ]
+}

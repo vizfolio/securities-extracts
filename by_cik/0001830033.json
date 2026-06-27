@@ -1,0 +1,26 @@
+{
+  "cik": "0001830033",
+  "country": "United States",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "PureCycle Technologies, Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2821",
+  "sic_description": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:14+00:00"
+  },
+  "state_of_incorporation": "X1",
+  "tickers": [
+    "PCT",
+    "PCTBP",
+    "PCTTU",
+    "PCTTW"
+  ]
+}

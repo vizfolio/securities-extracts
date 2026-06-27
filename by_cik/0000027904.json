@@ -1,0 +1,20 @@
+{
+  "cik": "0000027904",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DELTA AIR LINES, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4512",
+  "sic_description": "Air Transportation, Scheduled",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:04+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DAL"
+  ]
+}

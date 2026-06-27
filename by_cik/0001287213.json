@@ -1,0 +1,20 @@
+{
+  "cik": "0001287213",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DOUGLAS DYNAMICS, INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3531",
+  "sic_description": "Construction Machinery & Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:49+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PLOW"
+  ]
+}

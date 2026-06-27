@@ -1,0 +1,20 @@
+{
+  "cik": "0000833640",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "POWER INTEGRATIONS INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:23+00:00"
+  },
+  "state_of_incorporation": "CA",
+  "tickers": [
+    "POWI"
+  ]
+}

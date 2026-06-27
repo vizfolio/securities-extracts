@@ -1,0 +1,20 @@
+{
+  "cik": "0001712463",
+  "country": "Cayman Islands",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Ranpak Holdings Corp.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2670",
+  "sic_description": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:52+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "PACK"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0002058873",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Qnity Electronics, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:28+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "Q"
+  ]
+}

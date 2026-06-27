@@ -1,0 +1,20 @@
+{
+  "cik": "0000084839",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ROLLINS INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7340",
+  "sic_description": "Services-To Dwellings & Other Buildings",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:57+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ROL"
+  ]
+}

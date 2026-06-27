@@ -1,0 +1,20 @@
+{
+  "cik": "0000100726",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "UNIFI INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2200",
+  "sic_description": "Textile Mill Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:10+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "UFI"
+  ]
+}

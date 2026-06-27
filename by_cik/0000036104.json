@@ -1,0 +1,32 @@
+{
+  "cik": "0000036104",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "US BANCORP \\DE\\",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:12+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "USB",
+    "USB-PA",
+    "USB-PH",
+    "USB-PP",
+    "USB-PQ",
+    "USB-PR",
+    "USB-PS"
+  ]
+}

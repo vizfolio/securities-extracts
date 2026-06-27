@@ -1,0 +1,20 @@
+{
+  "cik": "0000886136",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SAGA COMMUNICATIONS INC",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4832",
+  "sic_description": "Radio Broadcasting Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:55+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "SGA"
+  ]
+}

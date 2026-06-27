@@ -1,0 +1,20 @@
+{
+  "cik": "0000859070",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "FIRST COMMUNITY BANKSHARES INC /VA/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:32+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "FCBC"
+  ]
+}

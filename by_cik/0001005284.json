@@ -1,0 +1,20 @@
+{
+  "cik": "0001005284",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "UNIVERSAL DISPLAY CORP \\PA\\",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3670",
+  "sic_description": "Electronic Components & Accessories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:51+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "OLED"
+  ]
+}

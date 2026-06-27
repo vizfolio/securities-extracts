@@ -1,0 +1,28 @@
+{
+  "cik": "0001465740",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "TWO HARBORS INVESTMENT CORP.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:13+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "TWO",
+    "TWO-PC",
+    "TWO-PB",
+    "TWO-PA",
+    "TWOD"
+  ]
+}

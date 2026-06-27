@@ -1,0 +1,20 @@
+{
+  "cik": "0001600641",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "1stdibs.com, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5961",
+  "sic_description": "Retail-Catalog & Mail-Order Houses",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:32+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DIBS"
+  ]
+}

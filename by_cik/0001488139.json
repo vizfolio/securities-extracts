@@ -1,0 +1,20 @@
+{
+  "cik": "0001488139",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Ameresco, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1700",
+  "sic_description": "Construction - Special Trade Contractors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:27+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AMRC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001682220",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Sachem Capital Corp.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:31+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "SACH",
+    "SACH-PA",
+    "SCCD",
+    "SCCE",
+    "SCCF",
+    "SCCG"
+  ]
+}

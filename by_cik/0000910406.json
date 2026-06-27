@@ -1,0 +1,20 @@
+{
+  "cik": "0000910406",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "HAIN CELESTIAL GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2000",
+  "sic_description": "Food and Kindred Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:15+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HAIN"
+  ]
+}

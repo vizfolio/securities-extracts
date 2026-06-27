@@ -1,0 +1,20 @@
+{
+  "cik": "0001786842",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Vontier Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3824",
+  "sic_description": "Totalizing Fluid Meters & Counting Devices",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VNT"
+  ]
+}

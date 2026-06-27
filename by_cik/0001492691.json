@@ -1,0 +1,20 @@
+{
+  "cik": "0001492691",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Knight-Swift Transportation Holdings Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4213",
+  "sic_description": "Trucking (No Local)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:30+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "KNX"
+  ]
+}

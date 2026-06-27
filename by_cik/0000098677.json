@@ -1,0 +1,22 @@
+{
+  "cik": "0000098677",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "TOOTSIE ROLL INDUSTRIES INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2060",
+  "sic_description": "Sugar & Confectionery Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:08+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "TR",
+    "TROLB"
+  ]
+}

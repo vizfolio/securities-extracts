@@ -1,0 +1,20 @@
+{
+  "cik": "0001262039",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Fortinet, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3577",
+  "sic_description": "Computer Peripheral Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:40+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FTNT"
+  ]
+}

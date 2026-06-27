@@ -1,0 +1,22 @@
+{
+  "cik": "0002064124",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "Figure Technology Solutions, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6163",
+  "sic_description": "Loan Brokers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:28+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FIGR",
+    "FGRS"
+  ]
+}

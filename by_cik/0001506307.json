@@ -1,0 +1,22 @@
+{
+  "cik": "0001506307",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "KINDER MORGAN, INC.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4922",
+  "sic_description": "Natural Gas Transmission",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:38+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "KMI",
+    "EP-PC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000056047",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "KIRBY CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4400",
+  "sic_description": "Water Transportation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:27+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "KEX"
+  ]
+}

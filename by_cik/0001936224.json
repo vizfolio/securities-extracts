@@ -1,0 +1,20 @@
+{
+  "cik": "0001936224",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SURF AIR MOBILITY INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4522",
+  "sic_description": "Air Transportation, Nonscheduled",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SRFM"
+  ]
+}

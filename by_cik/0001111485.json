@@ -1,0 +1,20 @@
+{
+  "cik": "0001111485",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RxSight, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3851",
+  "sic_description": "Ophthalmic Goods",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RXST"
+  ]
+}

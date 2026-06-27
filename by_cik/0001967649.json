@@ -1,0 +1,20 @@
+{
+  "cik": "0001967649",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Vestis Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5190",
+  "sic_description": "Wholesale-Miscellaneous Nondurable Goods",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:08+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VSTS"
+  ]
+}

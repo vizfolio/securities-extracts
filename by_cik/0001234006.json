@@ -1,0 +1,24 @@
+{
+  "cik": "0001234006",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "GLADSTONE COMMERCIAL CORP",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6519",
+  "sic_description": "Lessors of  Real Property, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:36+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "GOOD",
+    "GOODN",
+    "GOODO"
+  ]
+}

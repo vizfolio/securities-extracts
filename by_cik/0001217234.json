@@ -1,0 +1,20 @@
+{
+  "cik": "0001217234",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CareDx, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8071",
+  "sic_description": "Services-Medical Laboratories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CDNA"
+  ]
+}

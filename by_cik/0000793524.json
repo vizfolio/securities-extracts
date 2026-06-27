@@ -1,0 +1,20 @@
+{
+  "cik": "0000793524",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "RESEARCH FRONTIERS INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "6794",
+  "sic_description": "Patent Owners & Lessors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:59+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "REFR"
+  ]
+}

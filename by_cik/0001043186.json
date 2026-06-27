@@ -1,0 +1,20 @@
+{
+  "cik": "0001043186",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Stabilis Solutions, Inc.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4924",
+  "sic_description": "Natural Gas Distribution",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:18+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "SLNG"
+  ]
+}

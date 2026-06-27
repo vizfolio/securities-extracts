@@ -1,0 +1,20 @@
+{
+  "cik": "0000003197",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CECO ENVIRONMENTAL CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3564",
+  "sic_description": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:43+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CECO"
+  ]
+}

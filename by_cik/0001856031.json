@@ -1,0 +1,22 @@
+{
+  "cik": "0001856031",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Vivid Seats Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7990",
+  "sic_description": "Services-Miscellaneous Amusement & Recreation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:37+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SEAT",
+    "SEATW"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "cik": "0000035527",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "FIFTH THIRD BANCORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:11+00:00"
+  },
+  "state_of_incorporation": "OH",
+  "tickers": [
+    "FITB",
+    "FITBI",
+    "FITBM",
+    "FITBO",
+    "FITBP",
+    "FITB-PA",
+    "FITB-PI",
+    "FITB-PK",
+    "FITB-PM"
+  ]
+}

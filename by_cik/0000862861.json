@@ -1,0 +1,20 @@
+{
+  "cik": "0000862861",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "AI Financial Corp",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6221",
+  "sic_description": "Commodity Contracts Brokers & Dealers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:35+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "AIFC"
+  ]
+}

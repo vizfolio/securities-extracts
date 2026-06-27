@@ -1,0 +1,20 @@
+{
+  "cik": "0001611647",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Freshpet, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2040",
+  "sic_description": "Grain Mill Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:42+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FRPT"
+  ]
+}

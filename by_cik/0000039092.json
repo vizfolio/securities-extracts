@@ -1,0 +1,20 @@
+{
+  "cik": "0000039092",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "FRIEDMAN INDUSTRIES INC",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3310",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:15+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "FRD"
+  ]
+}

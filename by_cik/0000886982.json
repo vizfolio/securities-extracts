@@ -1,0 +1,28 @@
+{
+  "cik": "0000886982",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "GOLDMAN SACHS GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:22+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GS",
+    "GSCE",
+    "GS-PA",
+    "GS-PC",
+    "GS-PD"
+  ]
+}

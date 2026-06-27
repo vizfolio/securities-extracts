@@ -1,0 +1,28 @@
+{
+  "cik": "0000091576",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "KEYCORP /NEW/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:02+00:00"
+  },
+  "state_of_incorporation": "OH",
+  "tickers": [
+    "KEY",
+    "KEY-PK",
+    "KEY-PI",
+    "KEY-PJ",
+    "KEY-PL"
+  ]
+}

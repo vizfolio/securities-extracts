@@ -1,0 +1,22 @@
+{
+  "cik": "0000014930",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "BRUNSWICK CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3510",
+  "sic_description": "Engines & Turbines",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:55+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BC",
+    "BC-PC"
+  ]
+}

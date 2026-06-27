@@ -1,0 +1,20 @@
+{
+  "cik": "0001591956",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Sphere 3D Corp.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:28+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ANY"
+  ]
+}

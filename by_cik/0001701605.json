@@ -1,0 +1,20 @@
+{
+  "cik": "0001701605",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Baker Hughes Co",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:43+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BKR"
+  ]
+}

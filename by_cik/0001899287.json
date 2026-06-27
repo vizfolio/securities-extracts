@@ -1,0 +1,22 @@
+{
+  "cik": "0001899287",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Amprius Technologies, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3690",
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:56+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AMPX",
+    "AMPX-WT"
+  ]
+}

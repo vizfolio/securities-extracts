@@ -1,0 +1,20 @@
+{
+  "cik": "0002046042",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Jefferson Capital, Inc. / DE",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6153",
+  "sic_description": "Short-Term Business Credit Institutions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "JCAP"
+  ]
+}

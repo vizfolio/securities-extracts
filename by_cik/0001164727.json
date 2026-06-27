@@ -1,0 +1,22 @@
+{
+  "cik": "0001164727",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "NEWMONT Corp /DE/",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NEM",
+    "NEMCL"
+  ]
+}

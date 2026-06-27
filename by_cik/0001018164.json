@@ -1,0 +1,20 @@
+{
+  "cik": "0001018164",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "WILLIS LEASE FINANCE CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5080",
+  "sic_description": "Wholesale-Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "WLFC"
+  ]
+}

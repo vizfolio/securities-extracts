@@ -1,0 +1,20 @@
+{
+  "cik": "0001078271",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "EXTREME NETWORKS INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3576",
+  "sic_description": "Computer Communications Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:45+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "EXTR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0000063754",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "MCCORMICK & CO INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2090",
+  "sic_description": "Miscellaneous Food Preparations & Kindred Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:36+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "MKC",
+    "MKC-V"
+  ]
+}

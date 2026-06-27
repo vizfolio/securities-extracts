@@ -1,0 +1,20 @@
+{
+  "cik": "0000102037",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "UNIVERSAL CORP /VA/",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5150",
+  "sic_description": "Wholesale-Farm Product Raw Materials",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:12+00:00"
+  },
+  "state_of_incorporation": "VA",
+  "tickers": [
+    "UVV"
+  ]
+}

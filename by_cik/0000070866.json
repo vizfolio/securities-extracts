@@ -1,0 +1,22 @@
+{
+  "cik": "0000070866",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "NCR Voyix Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3578",
+  "sic_description": "Calculating & Accounting Machines (No Electronic Computers)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:44+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "VYX",
+    "NCRRP"
+  ]
+}

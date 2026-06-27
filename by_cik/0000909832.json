@@ -1,0 +1,20 @@
+{
+  "cik": "0000909832",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "COSTCO WHOLESALE CORP /NEW",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5331",
+  "sic_description": "Retail-Variety Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:14+00:00"
+  },
+  "state_of_incorporation": "WA",
+  "tickers": [
+    "COST"
+  ]
+}

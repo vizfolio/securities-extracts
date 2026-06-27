@@ -1,0 +1,20 @@
+{
+  "cik": "0000793733",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SKYWEST INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4512",
+  "sic_description": "Air Transportation, Scheduled",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:00+00:00"
+  },
+  "state_of_incorporation": "UT",
+  "tickers": [
+    "SKYW"
+  ]
+}

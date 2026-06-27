@@ -1,0 +1,20 @@
+{
+  "cik": "0000767405",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SB FINANCIAL GROUP, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:49+00:00"
+  },
+  "state_of_incorporation": "OH",
+  "tickers": [
+    "SBFG"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001050441",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "EAGLE BANCORP INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:26+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "EGBN"
+  ]
+}

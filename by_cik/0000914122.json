@@ -1,0 +1,20 @@
+{
+  "cik": "0000914122",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Perma-Pipe International Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3564",
+  "sic_description": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:20+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PPIH"
+  ]
+}

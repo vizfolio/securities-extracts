@@ -1,0 +1,20 @@
+{
+  "cik": "0000785956",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "J&J SNACK FOODS CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2052",
+  "sic_description": "Cookies & Crackers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:54+00:00"
+  },
+  "state_of_incorporation": "NJ",
+  "tickers": [
+    "JJSF"
+  ]
+}

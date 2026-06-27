@@ -1,0 +1,20 @@
+{
+  "cik": "0001878897",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Douglas Elliman Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6531",
+  "sic_description": "Real Estate Agents & Managers (For Others)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:51+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DOUG"
+  ]
+}

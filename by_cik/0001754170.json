@@ -1,0 +1,20 @@
+{
+  "cik": "0001754170",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "AerSale Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5080",
+  "sic_description": "Wholesale-Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:14+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ASLE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001889539",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Corebridge Financial, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:54+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CRBG",
+    "CRBD"
+  ]
+}

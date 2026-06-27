@@ -1,0 +1,20 @@
+{
+  "cik": "0000874761",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "AES CORP",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4991",
+  "sic_description": "Cogeneration Services & Small Power Producers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:42+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AES"
+  ]
+}

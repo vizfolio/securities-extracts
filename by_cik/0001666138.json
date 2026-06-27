@@ -1,0 +1,20 @@
+{
+  "cik": "0001666138",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Atkore Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3690",
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:18+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ATKR"
+  ]
+}

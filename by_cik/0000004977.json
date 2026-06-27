@@ -1,0 +1,20 @@
+{
+  "cik": "0000004977",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "AFLAC INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6321",
+  "sic_description": "Accident & Health Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:45+00:00"
+  },
+  "state_of_incorporation": "GA",
+  "tickers": [
+    "AFL"
+  ]
+}

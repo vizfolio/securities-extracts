@@ -1,0 +1,24 @@
+{
+  "cik": "0001590364",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "FTAI Aviation Ltd.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7350",
+  "sic_description": "Services-Miscellaneous Equipment Rental & Leasing",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:24+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "FTAI",
+    "FTAIM",
+    "FTAIN"
+  ]
+}

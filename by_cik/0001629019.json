@@ -1,0 +1,26 @@
+{
+  "cik": "0001629019",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Merchants Bancorp",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:53+00:00"
+  },
+  "state_of_incorporation": "IN",
+  "tickers": [
+    "MBIN",
+    "MBINL",
+    "MBINM",
+    "MBINN"
+  ]
+}

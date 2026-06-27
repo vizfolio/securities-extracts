@@ -1,0 +1,20 @@
+{
+  "cik": "0001080340",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "MANHATTAN BRIDGE CAPITAL, INC",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:46+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "LOAN"
+  ]
+}

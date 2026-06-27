@@ -1,0 +1,20 @@
+{
+  "cik": "0001837014",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SmartRent, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:23+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SMRT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001067294",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CRACKER BARREL OLD COUNTRY STORE, INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5812",
+  "sic_description": "Retail-Eating  Places",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:37+00:00"
+  },
+  "state_of_incorporation": "TN",
+  "tickers": [
+    "CBRL"
+  ]
+}

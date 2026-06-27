@@ -1,0 +1,20 @@
+{
+  "cik": "0000040545",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GENERAL ELECTRIC CO",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3600",
+  "sic_description": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:17+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "GE"
+  ]
+}

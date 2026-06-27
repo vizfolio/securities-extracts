@@ -1,0 +1,22 @@
+{
+  "cik": "0001012019",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "RUSH ENTERPRISES INC \\TX\\",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5500",
+  "sic_description": "Retail-Auto Dealers & Gasoline Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:55+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "RUSHA",
+    "RUSHB"
+  ]
+}

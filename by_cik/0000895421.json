@@ -1,0 +1,38 @@
+{
+  "cik": "0000895421",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "MORGAN STANLEY",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:04+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MS",
+    "MS-PK",
+    "MS-PE",
+    "MS-PA",
+    "MS-PF",
+    "MS-PI",
+    "MS-PL",
+    "MS-PO",
+    "MS-PP",
+    "MS-PQ"
+  ]
+}

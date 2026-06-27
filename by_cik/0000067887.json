@@ -1,0 +1,22 @@
+{
+  "cik": "0000067887",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "MOOG INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3590",
+  "sic_description": "Misc Industrial & Commercial Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T19:04:33+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "MOG-A",
+    "MOG-B"
+  ]
+}

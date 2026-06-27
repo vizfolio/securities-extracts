@@ -1,0 +1,22 @@
+{
+  "cik": "0001844505",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "QT IMAGING HOLDINGS, INC.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3845",
+  "sic_description": "Electromedical & Electrotherapeutic Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "QTI",
+    "QTIWW"
+  ]
+}

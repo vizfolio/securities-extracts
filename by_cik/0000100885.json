@@ -1,0 +1,20 @@
+{
+  "cik": "0000100885",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "UNION PACIFIC CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4011",
+  "sic_description": "Railroads, Line-Haul Operating",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:20+00:00"
+  },
+  "state_of_incorporation": "UT",
+  "tickers": [
+    "UNP"
+  ]
+}

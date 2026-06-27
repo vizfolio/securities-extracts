@@ -1,0 +1,22 @@
+{
+  "cik": "0002028336",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "New ERA Energy & Digital, Inc.",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:23+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "NUAI",
+    "NUAIW"
+  ]
+}

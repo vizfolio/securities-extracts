@@ -1,0 +1,20 @@
+{
+  "cik": "0002058758",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Avidia Bancorp, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6036",
+  "sic_description": "Savings Institutions, Not Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:28+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "AVBC"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001808834",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "PROG Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7359",
+  "sic_description": "Services-Equipment Rental & Leasing, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:48+00:00"
+  },
+  "state_of_incorporation": "GA",
+  "tickers": [
+    "PRG"
+  ]
+}

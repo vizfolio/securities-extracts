@@ -1,0 +1,20 @@
+{
+  "cik": "0001401257",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "FORUM ENERGY TECHNOLOGIES, INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:39+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FET"
+  ]
+}

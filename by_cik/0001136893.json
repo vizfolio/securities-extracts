@@ -1,0 +1,20 @@
+{
+  "cik": "0001136893",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Fidelity National Information Services, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:12+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "FIS"
+  ]
+}

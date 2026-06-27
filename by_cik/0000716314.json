@@ -1,0 +1,20 @@
+{
+  "cik": "0000716314",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GRAHAM CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3560",
+  "sic_description": "General Industrial Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:08+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GHM"
+  ]
+}

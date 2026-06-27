@@ -1,0 +1,20 @@
+{
+  "cik": "0000701985",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Bath & Body Works, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5990",
+  "sic_description": "Retail-Retail Stores, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:48+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BBWI"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001041657",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "URBAN ONE, INC.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4832",
+  "sic_description": "Radio Broadcasting Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "UONE",
+    "UONEK"
+  ]
+}

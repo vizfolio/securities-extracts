@@ -1,0 +1,20 @@
+{
+  "cik": "0000920427",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "UNITY BANCORP INC /NJ/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:27+00:00"
+  },
+  "state_of_incorporation": "NJ",
+  "tickers": [
+    "UNTY"
+  ]
+}

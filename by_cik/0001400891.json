@@ -1,0 +1,24 @@
+{
+  "cik": "0001400891",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "OTC"
+  ],
+  "name": "iHeartMedia, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4832",
+  "sic_description": "Radio Broadcasting Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:39+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "IHRT",
+    "IHRTB",
+    "IHETW"
+  ]
+}

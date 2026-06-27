@@ -1,0 +1,20 @@
+{
+  "cik": "0001122976",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "AVIENT CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2821",
+  "sic_description": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:06+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "AVNT"
+  ]
+}

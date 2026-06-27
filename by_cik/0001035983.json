@@ -1,0 +1,20 @@
+{
+  "cik": "0001035983",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "COMFORT SYSTEMS USA INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1731",
+  "sic_description": "Electrical Work",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:11+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "FIX"
+  ]
+}

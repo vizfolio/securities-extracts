@@ -1,0 +1,20 @@
+{
+  "cik": "0000082811",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "REGAL REXNORD CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3569",
+  "sic_description": "General Industrial Machinery & Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:55+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "RRX"
+  ]
+}

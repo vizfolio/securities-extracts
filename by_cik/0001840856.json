@@ -1,0 +1,22 @@
+{
+  "cik": "0001840856",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "SOUNDHOUND AI, INC.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SOUN",
+    "SOUNW"
+  ]
+}

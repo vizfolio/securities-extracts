@@ -1,0 +1,20 @@
+{
+  "cik": "0000052988",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "JACOBS SOLUTIONS INC.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "J"
+  ]
+}

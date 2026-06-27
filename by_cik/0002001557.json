@@ -1,0 +1,22 @@
+{
+  "cik": "0002001557",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "Innventure, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6770",
+  "sic_description": "Blank Checks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:15+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "INV",
+    "INVLW"
+  ]
+}

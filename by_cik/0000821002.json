@@ -1,0 +1,20 @@
+{
+  "cik": "0000821002",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "G III APPAREL GROUP LTD /DE/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2300",
+  "sic_description": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:16+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GIII"
+  ]
+}

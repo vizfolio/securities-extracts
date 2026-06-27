@@ -1,0 +1,20 @@
+{
+  "cik": "0001863127",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Tyra Biosciences, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:42+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TYRA"
+  ]
+}

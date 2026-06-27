@@ -1,0 +1,20 @@
+{
+  "cik": "0000320193",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Apple Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3571",
+  "sic_description": "Electronic Computers",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:21+00:00"
+  },
+  "state_of_incorporation": "CA",
+  "tickers": [
+    "AAPL"
+  ]
+}

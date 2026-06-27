@@ -1,0 +1,20 @@
+{
+  "cik": "0000047217",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "HP INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3570",
+  "sic_description": "Computer & office Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:22+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HPQ"
+  ]
+}

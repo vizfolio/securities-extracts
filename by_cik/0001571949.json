@@ -1,0 +1,20 @@
+{
+  "cik": "0001571949",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Intercontinental Exchange, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6200",
+  "sic_description": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:12+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ICE"
+  ]
+}

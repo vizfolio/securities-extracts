@@ -1,0 +1,20 @@
+{
+  "cik": "0000103145",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "VEECO INSTRUMENTS INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3559",
+  "sic_description": "Special Industry Machinery, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:13+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VECO"
+  ]
+}

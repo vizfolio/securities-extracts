@@ -1,0 +1,20 @@
+{
+  "cik": "0001835579",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ImageneBio, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "IMA"
+  ]
+}

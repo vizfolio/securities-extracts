@@ -1,0 +1,20 @@
+{
+  "cik": "0000026324",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CURTISS WRIGHT CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3590",
+  "sic_description": "Misc Industrial & Commercial Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:03+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CW"
+  ]
+}

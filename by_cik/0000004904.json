@@ -1,0 +1,20 @@
+{
+  "cik": "0000004904",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "AMERICAN ELECTRIC POWER CO INC",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:45+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "AEP"
+  ]
+}

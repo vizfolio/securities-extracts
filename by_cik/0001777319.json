@@ -1,0 +1,20 @@
+{
+  "cik": "0001777319",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CISO Global, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:26+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CISO"
+  ]
+}

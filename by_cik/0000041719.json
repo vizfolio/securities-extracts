@@ -1,0 +1,20 @@
+{
+  "cik": "0000041719",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Magnera Corp",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2621",
+  "sic_description": "Paper Mills",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:18+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "MAGN"
+  ]
+}

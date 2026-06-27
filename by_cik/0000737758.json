@@ -1,0 +1,20 @@
+{
+  "cik": "0000737758",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TORO CO",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3524",
+  "sic_description": "Lawn & Garden Tractors & Home Lawn & Gardens Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:33+00:00"
+  },
+  "state_of_incorporation": "MN",
+  "tickers": [
+    "TTC"
+  ]
+}

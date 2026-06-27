@@ -1,0 +1,20 @@
+{
+  "cik": "0001077183",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "NEOGENOMICS INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8734",
+  "sic_description": "Services-Testing Laboratories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:44+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "NEO"
+  ]
+}

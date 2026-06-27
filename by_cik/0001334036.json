@@ -1,0 +1,20 @@
+{
+  "cik": "0001334036",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Crocs, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3021",
+  "sic_description": "Rubber & Plastics Footwear",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:08+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "CROX"
+  ]
+}

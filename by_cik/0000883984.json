@@ -1,0 +1,20 @@
+{
+  "cik": "0000883984",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ICU MEDICAL INC/DE",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:51+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ICUI"
+  ]
+}

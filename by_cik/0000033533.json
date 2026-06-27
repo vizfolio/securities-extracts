@@ -1,0 +1,20 @@
+{
+  "cik": "0000033533",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ESPEY MFG & ELECTRONICS CORP",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3679",
+  "sic_description": "Electronic Components, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:10+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "ESP"
+  ]
+}

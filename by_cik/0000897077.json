@@ -1,0 +1,20 @@
+{
+  "cik": "0000897077",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ALAMO GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3523",
+  "sic_description": "Farm Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:06+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ALG"
+  ]
+}

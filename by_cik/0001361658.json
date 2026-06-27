@@ -1,0 +1,20 @@
+{
+  "cik": "0001361658",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Travel & Leisure Co.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7011",
+  "sic_description": "Hotels & Motels",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:18+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TNL"
+  ]
+}

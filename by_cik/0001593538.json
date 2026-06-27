@@ -1,0 +1,22 @@
+{
+  "cik": "0001593538",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "NAVIENT CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:29+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NAVI",
+    "JSM"
+  ]
+}

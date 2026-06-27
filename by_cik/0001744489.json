@@ -1,0 +1,20 @@
+{
+  "cik": "0001744489",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Walt Disney Co",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7990",
+  "sic_description": "Services-Miscellaneous Amusement & Recreation",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:34:25+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DIS"
+  ]
+}

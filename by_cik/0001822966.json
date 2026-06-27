@@ -1,0 +1,20 @@
+{
+  "cik": "0001822966",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "NUSCALE POWER Corp",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3443",
+  "sic_description": "Fabricated Plate Work (Boiler Shops)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:04+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "SMR"
+  ]
+}

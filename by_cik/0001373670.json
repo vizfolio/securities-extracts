@@ -1,0 +1,22 @@
+{
+  "cik": "0001373670",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Green Brick Partners, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "1531",
+  "sic_description": "Operative Builders",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GRBK",
+    "GRBK-PA"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001037038",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "RALPH LAUREN CORP",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2320",
+  "sic_description": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:12+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "RL"
+  ]
+}

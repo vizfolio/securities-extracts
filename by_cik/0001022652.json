@@ -1,0 +1,20 @@
+{
+  "cik": "0001022652",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "INSEEGO CORP.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3669",
+  "sic_description": "Communications Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:02+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "INSG"
+  ]
+}

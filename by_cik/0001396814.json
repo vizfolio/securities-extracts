@@ -1,0 +1,20 @@
+{
+  "cik": "0001396814",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Pacira BioSciences, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:37+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PCRX"
+  ]
+}

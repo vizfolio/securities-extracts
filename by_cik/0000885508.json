@@ -1,0 +1,20 @@
+{
+  "cik": "0000885508",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "STRATUS PROPERTIES INC",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6552",
+  "sic_description": "Land Subdividers & Developers (No Cemeteries)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:53+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "STRS"
+  ]
+}

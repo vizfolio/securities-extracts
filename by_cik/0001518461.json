@@ -1,0 +1,24 @@
+{
+  "cik": "0001518461",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "AmpliTech Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3669",
+  "sic_description": "Communications Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:45+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "AMPG",
+    "AMPGR",
+    "AMPGZ"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000100517",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "United Airlines Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4512",
+  "sic_description": "Air Transportation, Scheduled",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:09+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "UAL"
+  ]
+}

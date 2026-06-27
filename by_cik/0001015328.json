@@ -1,0 +1,22 @@
+{
+  "cik": "0001015328",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "WINTRUST FINANCIAL CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:57+00:00"
+  },
+  "state_of_incorporation": "IL",
+  "tickers": [
+    "WTFC",
+    "WTFCN"
+  ]
+}

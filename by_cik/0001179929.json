@@ -1,0 +1,20 @@
+{
+  "cik": "0001179929",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MOLINA HEALTHCARE, INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6324",
+  "sic_description": "Hospital & Medical Service Plans",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:29+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MOH"
+  ]
+}

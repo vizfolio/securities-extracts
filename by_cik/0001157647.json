@@ -1,0 +1,20 @@
+{
+  "cik": "0001157647",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Western New England Bancorp, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:17+00:00"
+  },
+  "state_of_incorporation": "MA",
+  "tickers": [
+    "WNEB"
+  ]
+}

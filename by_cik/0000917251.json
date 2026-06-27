@@ -1,0 +1,22 @@
+{
+  "cik": "0000917251",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "AGREE REALTY CORP",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ADC",
+    "ADC-PA"
+  ]
+}

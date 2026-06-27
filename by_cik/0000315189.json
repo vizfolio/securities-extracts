@@ -1,0 +1,20 @@
+{
+  "cik": "0000315189",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DEERE & CO",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3523",
+  "sic_description": "Farm Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:27+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "DE"
+  ]
+}

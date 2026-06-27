@@ -1,0 +1,20 @@
+{
+  "cik": "0002012706",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Sunrise Realty Trust, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:19+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "SUNS"
+  ]
+}

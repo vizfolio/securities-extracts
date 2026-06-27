@@ -1,0 +1,20 @@
+{
+  "cik": "0000853816",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "LANDSTAR SYSTEM INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4213",
+  "sic_description": "Trucking (No Local)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "LSTR"
+  ]
+}

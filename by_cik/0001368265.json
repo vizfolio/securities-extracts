@@ -1,0 +1,20 @@
+{
+  "cik": "0001368265",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Clean Energy Fuels Corp.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4932",
+  "sic_description": "Gas & Other Services Combined",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "CLNE"
+  ]
+}

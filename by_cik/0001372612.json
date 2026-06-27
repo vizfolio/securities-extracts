@@ -1,0 +1,22 @@
+{
+  "cik": "0001372612",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "BOX INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BOX",
+    "BXCAP"
+  ]
+}

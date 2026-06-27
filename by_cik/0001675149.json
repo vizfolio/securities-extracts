@@ -1,0 +1,20 @@
+{
+  "cik": "0001675149",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Alcoa Corp",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3334",
+  "sic_description": "Primary Production of  Aluminum",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:25+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AA"
+  ]
+}

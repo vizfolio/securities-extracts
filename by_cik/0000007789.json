@@ -1,0 +1,26 @@
+{
+  "cik": "0000007789",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "ASSOCIATED BANC-CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:49+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "ASB",
+    "ASBA",
+    "ASB-PE",
+    "ASB-PF"
+  ]
+}

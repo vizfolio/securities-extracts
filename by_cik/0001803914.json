@@ -1,0 +1,20 @@
+{
+  "cik": "0001803914",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Playboy, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5900",
+  "sic_description": "Retail-Miscellaneous Retail",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:44+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "PLBY"
+  ]
+}

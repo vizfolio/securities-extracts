@@ -1,0 +1,20 @@
+{
+  "cik": "0000940942",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Hub Group, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4731",
+  "sic_description": "Arrangement of  Transportation of  Freight & Cargo",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:41+00:00"
+  },
+  "state_of_incorporation": "IL",
+  "tickers": [
+    "HUBG"
+  ]
+}

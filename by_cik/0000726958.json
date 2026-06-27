@@ -1,0 +1,20 @@
+{
+  "cik": "0000726958",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CASEYS GENERAL STORES INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5500",
+  "sic_description": "Retail-Auto Dealers & Gasoline Stations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:23+00:00"
+  },
+  "state_of_incorporation": "IA",
+  "tickers": [
+    "CASY"
+  ]
+}

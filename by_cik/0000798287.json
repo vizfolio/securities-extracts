@@ -1,0 +1,20 @@
+{
+  "cik": "0000798287",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "PAMT CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4213",
+  "sic_description": "Trucking (No Local)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:03+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "PAMT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000928340",
+  "country": "Cayman Islands",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Consolidated Water Co. Ltd.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4941",
+  "sic_description": "Water Supply",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:34+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "CWCO"
+  ]
+}

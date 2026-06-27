@@ -1,0 +1,20 @@
+{
+  "cik": "0001711754",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Inmune Bio, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:51+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "INMB"
+  ]
+}

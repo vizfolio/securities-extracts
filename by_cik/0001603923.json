@@ -1,0 +1,20 @@
+{
+  "cik": "0001603923",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Weatherford International plc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:35+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "WFRD"
+  ]
+}

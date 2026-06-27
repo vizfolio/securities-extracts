@@ -1,0 +1,20 @@
+{
+  "cik": "0000105418",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "WEIS MARKETS INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5411",
+  "sic_description": "Retail-Grocery Stores",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:15+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "WMK"
+  ]
+}

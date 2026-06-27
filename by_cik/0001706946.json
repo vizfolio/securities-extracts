@@ -1,0 +1,20 @@
+{
+  "cik": "0001706946",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Virgin Galactic Holdings, Inc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4700",
+  "sic_description": "Transportation Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:50:47+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "SPCE"
+  ]
+}

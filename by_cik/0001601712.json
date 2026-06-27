@@ -1,0 +1,24 @@
+{
+  "cik": "0001601712",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "name": "Synchrony Financial",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:34+00:00"
+  },
+  "state_of_incorporation": "NY",
+  "tickers": [
+    "SYF",
+    "SYF-PA",
+    "SYF-PB"
+  ]
+}

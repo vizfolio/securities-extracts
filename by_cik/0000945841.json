@@ -1,0 +1,20 @@
+{
+  "cik": "0000945841",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "POOL CORP",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "5090",
+  "sic_description": "Wholesale-Misc Durable Goods",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:44:44+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "POOL"
+  ]
+}

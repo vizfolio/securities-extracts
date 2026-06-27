@@ -1,0 +1,24 @@
+{
+  "cik": "0001799191",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq"
+  ],
+  "name": "Oncology Institute, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8011",
+  "sic_description": "Services-Offices & Clinics of  Doctors of  Medicine",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:41+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "TOI",
+    "DFPH",
+    "TOIIW"
+  ]
+}

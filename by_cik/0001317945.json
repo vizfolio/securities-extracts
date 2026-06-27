@@ -1,0 +1,20 @@
+{
+  "cik": "0001317945",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Omega Flex, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3430",
+  "sic_description": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:47:00+00:00"
+  },
+  "state_of_incorporation": "PA",
+  "tickers": [
+    "OFLX"
+  ]
+}

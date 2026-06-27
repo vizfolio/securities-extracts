@@ -1,0 +1,20 @@
+{
+  "cik": "0000106532",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "WEYCO GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5130",
+  "sic_description": "Wholesale-Apparel, Piece Goods & Notions",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:41:17+00:00"
+  },
+  "state_of_incorporation": "WI",
+  "tickers": [
+    "WEYS"
+  ]
+}

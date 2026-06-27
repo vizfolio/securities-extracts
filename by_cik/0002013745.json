@@ -1,0 +1,20 @@
+{
+  "cik": "0002013745",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Calumet, Inc. /DE",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "2911",
+  "sic_description": "Petroleum Refining",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:53:19+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "CLMT"
+  ]
+}

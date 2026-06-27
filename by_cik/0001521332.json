@@ -1,0 +1,20 @@
+{
+  "cik": "0001521332",
+  "country": "Jersey",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Aptiv PLC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:48:48+00:00"
+  },
+  "state_of_incorporation": "Y9",
+  "tickers": [
+    "APTV"
+  ]
+}

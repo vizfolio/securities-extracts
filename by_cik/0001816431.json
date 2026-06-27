@@ -1,0 +1,22 @@
+{
+  "cik": "0001816431",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "Quantum-Si Inc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3829",
+  "sic_description": "Measuring & Controlling Devices, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:53+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "QSI",
+    "QSIAW"
+  ]
+}

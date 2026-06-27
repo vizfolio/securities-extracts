@@ -1,0 +1,20 @@
+{
+  "cik": "0000819793",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ALBANY INTERNATIONAL CORP /DE/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2221",
+  "sic_description": "Broadwoven Fabric Mills, Man Made Fiber & Silk",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:43:15+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "AIN"
+  ]
+}

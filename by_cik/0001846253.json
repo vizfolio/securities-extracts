@@ -1,0 +1,22 @@
+{
+  "cik": "0001846253",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "name": "OmniAb, Inc.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "8731",
+  "sic_description": "Services-Commercial Physical & Biological Research",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:52:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "OABI",
+    "OABIW"
+  ]
+}

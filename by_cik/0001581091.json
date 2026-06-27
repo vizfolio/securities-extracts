@@ -1,0 +1,20 @@
+{
+  "cik": "0001581091",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "RE/MAX Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6531",
+  "sic_description": "Real Estate Agents & Managers (For Others)",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:49:20+00:00"
+  },
+  "state_of_incorporation": "CO",
+  "tickers": [
+    "RMAX"
+  ]
+}

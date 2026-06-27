@@ -1,0 +1,20 @@
+{
+  "cik": "0001231457",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "GENELUX Corp",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:46:36+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GNLX"
+  ]
+}

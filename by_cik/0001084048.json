@@ -1,0 +1,20 @@
+{
+  "cik": "0001084048",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "ZIFF DAVIS, INC.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4822",
+  "sic_description": "Telegraph & Other Message Communications",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:45:47+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ZD"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0000063276",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "MATTEL INC /DE/",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "3942",
+  "sic_description": "Dolls & Stuffed Toys",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:40:35+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "MAT"
+  ]
+}

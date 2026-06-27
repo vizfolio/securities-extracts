@@ -1,0 +1,20 @@
+{
+  "cik": "0000715787",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "INTERFACE INC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "2273",
+  "sic_description": "Carpets & Rugs",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:42:07+00:00"
+  },
+  "state_of_incorporation": "GA",
+  "tickers": [
+    "TILE"
+  ]
+}

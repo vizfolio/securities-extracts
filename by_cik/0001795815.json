@@ -1,0 +1,20 @@
+{
+  "cik": "0001795815",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "California BanCorp \\ CA",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:51:40+00:00"
+  },
+  "state_of_incorporation": "CA",
+  "tickers": [
+    "BCAL"
+  ]
+}

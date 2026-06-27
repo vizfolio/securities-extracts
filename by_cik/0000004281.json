@@ -1,0 +1,20 @@
+{
+  "cik": "0000004281",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Howmet Aerospace Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3350",
+  "sic_description": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "source": {
+    "edgar_fetched_at": "2026-06-27T18:39:44+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HWM"
+  ]
+}
