@@ -4,11 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "NYSE",
-    "OTC",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE"
+    "OTC"
   ],
   "name": "VORNADO REALTY TRUST",
   "schema_version": "0.1",

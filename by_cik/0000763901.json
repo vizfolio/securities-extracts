@@ -4,8 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    "OTC",
-    "Nasdaq"
+    "OTC"
   ],
   "name": "POPULAR, INC.",
   "schema_version": "0.1",

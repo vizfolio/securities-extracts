@@ -4,22 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "OTC",
-    "NYSE",
-    "NYSE",
-    "NYSE"
+    "OTC"
   ],
   "name": "BANK OF AMERICA CORP /DE/",
   "schema_version": "0.1",

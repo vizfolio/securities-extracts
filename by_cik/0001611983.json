@@ -4,9 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    "OTC",
-    "Nasdaq",
-    "Nasdaq"
+    "OTC"
   ],
   "name": "Liberty Broadband Corp",
   "schema_version": "0.1",

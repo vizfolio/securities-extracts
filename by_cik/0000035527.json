@@ -4,14 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "NYSE",
-    "Nasdaq",
-    "Nasdaq",
-    "Nasdaq",
-    "Nasdaq",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE"
+    "Nasdaq"
   ],
   "name": "FIFTH THIRD BANCORP",
   "schema_version": "0.1",

@@ -4,8 +4,6 @@
   "entity_type": "operating",
   "exchanges": [
     "OTC",
-    "Nasdaq",
-    "OTC",
     "Nasdaq"
   ],
   "name": "Bitcoin Depot Inc.",

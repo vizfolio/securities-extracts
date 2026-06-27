@@ -4,8 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    "OTC",
-    "Nasdaq"
+    "OTC"
   ],
   "name": "Liberty Capital Corp/NV",
   "schema_version": "0.1",

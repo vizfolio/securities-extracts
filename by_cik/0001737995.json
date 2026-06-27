@@ -4,8 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    null,
-    "Nasdaq"
+    null
   ],
   "name": "SkyAI, Inc.",
   "schema_version": "0.1",

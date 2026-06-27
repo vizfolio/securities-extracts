@@ -4,13 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "NYSE",
-    "NYSE",
-    "NYSE",
-    "NYSE",
-    "OTC",
-    "NYSE",
-    "NYSE",
-    "NYSE"
+    "OTC"
   ],
   "name": "WELLS FARGO & COMPANY/MN",
   "schema_version": "0.1",

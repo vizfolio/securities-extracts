@@ -4,9 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    "OTC",
-    "Nasdaq",
-    "Nasdaq"
+    "OTC"
   ],
   "name": "Core Scientific, Inc./tx",
   "schema_version": "0.1",

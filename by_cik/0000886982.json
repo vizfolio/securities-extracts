@@ -4,10 +4,7 @@
   "entity_type": "operating",
   "exchanges": [
     "NYSE",
-    "OTC",
-    "NYSE",
-    "NYSE",
-    "NYSE"
+    "OTC"
   ],
   "name": "GOLDMAN SACHS GROUP INC",
   "schema_version": "0.1",

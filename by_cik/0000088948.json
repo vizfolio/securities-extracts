@@ -4,8 +4,6 @@
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq",
-    "Nasdaq",
-    "OTC",
     "OTC"
   ],
   "name": "Seneca Foods Corp",
