@@ -1,0 +1,21 @@
+{
+  "cik": "0001824403",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Reservoir Media, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "7900",
+  "sic_description": "Services-Amusement & Recreation Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:01+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "RSVR",
+    "RSVRW"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cik": "0001883085",
+  "country": "Israel",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Pagaya Technologies Ltd.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:05+00:00"
+  },
+  "state_of_incorporation": "L3",
+  "tickers": [
+    "PGY",
+    "PGYWW"
+  ]
+}

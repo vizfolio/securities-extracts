@@ -1,0 +1,22 @@
+{
+  "cik": "0001845097",
+  "country": "Luxembourg",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "Ardagh Metal Packaging S.A.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3411",
+  "sic_description": "Metal Cans",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:03+00:00"
+  },
+  "state_of_incorporation": "N4",
+  "tickers": [
+    "AMBP",
+    "AMPWF"
+  ]
+}

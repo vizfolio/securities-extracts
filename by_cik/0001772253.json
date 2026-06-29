@@ -1,0 +1,20 @@
+{
+  "cik": "0001772253",
+  "country": "Bermuda",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Flex LNG Ltd.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4400",
+  "sic_description": "Water Transportation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:01+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "FLNG"
+  ]
+}

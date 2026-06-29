@@ -1,0 +1,23 @@
+{
+  "cik": "0001951089",
+  "country": "Virgin Islands, British",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "Critical Metals Corp.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:06+00:00"
+  },
+  "state_of_incorporation": "D8",
+  "tickers": [
+    "CRML",
+    "CRMLW",
+    "CRTMF"
+  ]
+}

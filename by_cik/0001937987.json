@@ -1,0 +1,22 @@
+{
+  "cik": "0001937987",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Falcon's Beyond Global, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7990",
+  "sic_description": "Services-Miscellaneous Amusement & Recreation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:06+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FBYD",
+    "FBYDP",
+    "FBYDW"
+  ]
+}

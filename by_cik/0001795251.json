@@ -1,0 +1,20 @@
+{
+  "cik": "0001795251",
+  "country": "Israel",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Nano-X Imaging Ltd.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "3844",
+  "sic_description": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:01+00:00"
+  },
+  "state_of_incorporation": "L3",
+  "tickers": [
+    "NNOX"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cik": "0001903870",
+  "country": "Gibraltar",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Forafric Global PLC",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2040",
+  "sic_description": "Grain Mill Products",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:05+00:00"
+  },
+  "state_of_incorporation": "J1",
+  "tickers": [
+    "AFRI",
+    "AFRIW"
+  ]
+}

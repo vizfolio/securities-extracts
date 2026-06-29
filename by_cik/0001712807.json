@@ -1,0 +1,20 @@
+{
+  "cik": "0001712807",
+  "country": "Cayman Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "PagSeguro Digital Ltd.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:49:59+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "PAGS"
+  ]
+}

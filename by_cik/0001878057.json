@@ -1,0 +1,20 @@
+{
+  "cik": "0001878057",
+  "country": "Guernsey",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Super Group (SGHC) Ltd",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7990",
+  "sic_description": "Services-Miscellaneous Amusement & Recreation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:04+00:00"
+  },
+  "state_of_incorporation": "Y7",
+  "tickers": [
+    "SGHC"
+  ]
+}

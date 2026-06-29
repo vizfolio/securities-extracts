@@ -1,0 +1,21 @@
+{
+  "cik": "0001958217",
+  "country": "Isle of Man",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Lifezone Metals Ltd",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:06+00:00"
+  },
+  "state_of_incorporation": "Y8",
+  "tickers": [
+    "LZM",
+    "LZM-WT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001828016",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Playtika Holding Corp.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:03+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "PLTK"
+  ]
+}

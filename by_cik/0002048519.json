@@ -1,0 +1,20 @@
+{
+  "cik": "0002048519",
+  "country": "Switzerland",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Aebi Schmidt Holding AG",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3531",
+  "sic_description": "Construction Machinery & Equip",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:08+00:00"
+  },
+  "state_of_incorporation": "V8",
+  "tickers": [
+    "AEBI"
+  ]
+}

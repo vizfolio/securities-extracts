@@ -1,0 +1,20 @@
+{
+  "cik": "0001827401",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "BRIGHT MINDS BIOSCIENCES INC.",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:02+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "DRUG"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001477081",
+  "country": "US",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Kolibri Global Energy Inc.",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:49:55+00:00"
+  },
+  "state_of_incorporation": "FL",
+  "tickers": [
+    "KGEI"
+  ]
+}

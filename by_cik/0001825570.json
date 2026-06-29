@@ -1,0 +1,20 @@
+{
+  "cik": "0001825570",
+  "country": "Cayman Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Patria Investments Ltd",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:02+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "PAX"
+  ]
+}

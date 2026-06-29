@@ -1,0 +1,20 @@
+{
+  "cik": "0001862461",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Real Brokerage Inc",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6531",
+  "sic_description": "Real Estate Agents & Managers (For Others)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:50:04+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "REAX"
+  ]
+}

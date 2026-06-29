@@ -1,0 +1,20 @@
+{
+  "cik": "0001637147",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "zSpace, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:49:58+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ZSPC"
+  ]
+}

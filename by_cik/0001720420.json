@@ -1,0 +1,20 @@
+{
+  "cik": "0001720420",
+  "country": "Bermuda",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "IBEX Ltd",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:49:59+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "IBEX"
+  ]
+}
