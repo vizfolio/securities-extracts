@@ -1,0 +1,22 @@
+{
+  "cik": "0000886986",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "TECK RESOURCES LTD",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1400",
+  "sic_description": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:02+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "TECK",
+    "TCKRF"
+  ]
+}

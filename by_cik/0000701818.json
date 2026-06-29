@@ -1,0 +1,22 @@
+{
+  "cik": "0000701818",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "KINROSS GOLD CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:00+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "KGC",
+    "KGCRF"
+  ]
+}

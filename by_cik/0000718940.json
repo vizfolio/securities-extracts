@@ -1,0 +1,29 @@
+{
+  "cik": "0000718940",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "BCE INC",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:01+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "BCE",
+    "BECEF",
+    "BCAEF",
+    "BCEFF",
+    "BCEIF",
+    "BCENF",
+    "BCEPF",
+    "BCEXF",
+    "BCPPF"
+  ]
+}

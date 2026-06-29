@@ -1,0 +1,24 @@
+{
+  "cik": "0000850918",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "GREAT-WEST LIFECO INC.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:01+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "GWLIF",
+    "GRWFF",
+    "GRWLF",
+    "GRWTF",
+    "GWLPF"
+  ]
+}

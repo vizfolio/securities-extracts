@@ -1,0 +1,22 @@
+{
+  "cik": "0001045520",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6029",
+  "sic_description": "Commercial Banks, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:05+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "CM",
+    "CNDIF"
+  ]
+}

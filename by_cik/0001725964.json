@@ -1,0 +1,20 @@
+{
+  "cik": "0001725964",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Nutrien Ltd.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2870",
+  "sic_description": "Agricultural Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:15+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "NTR"
+  ]
+}

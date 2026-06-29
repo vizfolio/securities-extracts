@@ -1,0 +1,24 @@
+{
+  "cik": "0001097362",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "SUN LIFE FINANCIAL INC",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:07+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "SLF",
+    "SLFIF",
+    "SLFQF",
+    "SUNFF"
+  ]
+}

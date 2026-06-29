@@ -1,0 +1,20 @@
+{
+  "cik": "0000886977",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "METHANEX CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:02+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "MEOH"
+  ]
+}

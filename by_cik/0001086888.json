@@ -1,0 +1,25 @@
+{
+  "cik": "0001086888",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "MANULIFE FINANCIAL CORP",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:06+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "MFC",
+    "MNLCF",
+    "MNQFF",
+    "MNUFF",
+    "MNUPF"
+  ]
+}

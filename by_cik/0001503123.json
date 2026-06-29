@@ -1,0 +1,16 @@
+{
+  "cik": "0001503123",
+  "country": "US",
+  "entity_type": "investment",
+  "exchanges": [],
+  "name": "DBX ETF TRUST",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:12+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": []
+}

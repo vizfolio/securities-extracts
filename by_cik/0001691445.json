@@ -1,0 +1,22 @@
+{
+  "cik": "0001691445",
+  "country": "Cayman Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "FinVolution Group",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6163",
+  "sic_description": "Loan Brokers",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:14+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "FINV",
+    "FVGPY"
+  ]
+}

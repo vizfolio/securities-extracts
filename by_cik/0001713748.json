@@ -1,0 +1,20 @@
+{
+  "cik": "0001713748",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Skeena Resources Ltd",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:14+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "SKE"
+  ]
+}

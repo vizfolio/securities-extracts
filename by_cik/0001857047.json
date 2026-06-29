@@ -1,0 +1,20 @@
+{
+  "cik": "0001857047",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "MDA Space Ltd.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3760",
+  "sic_description": "Guided Missiles & Space Vehicles & Parts",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:17+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "MDA"
+  ]
+}

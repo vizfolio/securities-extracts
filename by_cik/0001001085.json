@@ -1,0 +1,37 @@
+{
+  "cik": "0001001085",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "BROOKFIELD Corp /ON/",
+  "schema_version": "0.1",
+  "sector": "Real Estate",
+  "sic": "6512",
+  "sic_description": "Opeators of  Nonresidential Buildings",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:04+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "BN",
+    "BAMGF",
+    "BAMKF",
+    "BKAMF",
+    "BKFAF",
+    "BKFDF",
+    "BKFOF",
+    "BKFPF",
+    "BKPA",
+    "BNH",
+    "BNJ",
+    "BRCFF",
+    "BRFAF",
+    "BRFCF",
+    "BROXF",
+    "BRPSF",
+    "BXDIF"
+  ]
+}

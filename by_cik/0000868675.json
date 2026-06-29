@@ -1,0 +1,20 @@
+{
+  "cik": "0000868675",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TELUS CORP",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4812",
+  "sic_description": "Radiotelephone Communications",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:02+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "TU"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001829726",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Triple Flag Precious Metals Corp.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "6795",
+  "sic_description": "Mineral Royalty Traders",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:16+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "TFPM"
+  ]
+}

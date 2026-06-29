@@ -1,0 +1,20 @@
+{
+  "cik": "0001791863",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Brookfield Renewable Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:16+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "BEPC"
+  ]
+}

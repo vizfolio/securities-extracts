@@ -1,0 +1,21 @@
+{
+  "cik": "0000915191",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "FAIRFAX FINANCIAL HOLDINGS LTD/ CAN",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:03+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "FRFHF",
+    "FRFFF"
+  ]
+}

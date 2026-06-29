@@ -1,0 +1,20 @@
+{
+  "cik": "0002019061",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "South Bow Corp",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "4610",
+  "sic_description": "Pipe Lines (No Natural Gas)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:19+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "SOBO"
+  ]
+}

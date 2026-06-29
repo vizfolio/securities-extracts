@@ -1,0 +1,22 @@
+{
+  "cik": "0000924613",
+  "country": "Finland",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "NOKIA CORP",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "sic_description": "Radio & Tv Broadcasting & Communications Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:03+00:00"
+  },
+  "state_of_incorporation": "H9",
+  "tickers": [
+    "NOK",
+    "NOKBF"
+  ]
+}

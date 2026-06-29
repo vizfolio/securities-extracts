@@ -1,0 +1,20 @@
+{
+  "cik": "0001904856",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Enerflex Ltd.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3560",
+  "sic_description": "General Industrial Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:18+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "EFXT"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001402388",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "WEST FRASER TIMBER CO., LTD",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "2421",
+  "sic_description": "Sawmills & Planting Mills, General",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:10+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "WFG"
+  ]
+}

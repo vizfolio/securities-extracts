@@ -1,0 +1,21 @@
+{
+  "cik": "0002075918",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "Capstone Copper Corp./ADR",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:21+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "CSCCY",
+    "CSCCF"
+  ]
+}

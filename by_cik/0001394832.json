@@ -1,0 +1,20 @@
+{
+  "cik": "0001394832",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ATS Corp /ATS",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3569",
+  "sic_description": "General Industrial Machinery & Equipment, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:10+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "ATS"
+  ]
+}

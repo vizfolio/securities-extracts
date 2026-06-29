@@ -1,0 +1,20 @@
+{
+  "cik": "0001050140",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "DESCARTES SYSTEMS GROUP INC",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:06+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "DSGX"
+  ]
+}

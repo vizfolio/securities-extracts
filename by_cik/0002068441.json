@@ -1,0 +1,20 @@
+{
+  "cik": "0002068441",
+  "country": "Alberta, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "Strathcona Resources Ltd.",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:19+00:00"
+  },
+  "state_of_incorporation": "A0",
+  "tickers": [
+    "STHRF"
+  ]
+}

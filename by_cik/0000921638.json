@@ -1,0 +1,22 @@
+{
+  "cik": "0000921638",
+  "country": "British Columbia, Canada",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "SSR MINING INC.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "6795",
+  "sic_description": "Mineral Royalty Traders",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:03+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "SSRM",
+    "SSRGF"
+  ]
+}

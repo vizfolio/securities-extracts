@@ -1,0 +1,20 @@
+{
+  "cik": "0001594805",
+  "country": "Canada (Federal Level)",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SHOPIFY INC.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:13+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "SHOP"
+  ]
+}

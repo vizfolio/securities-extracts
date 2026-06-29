@@ -1,0 +1,20 @@
+{
+  "cik": "0000918608",
+  "country": "British Columbia, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ELDORADO GOLD CORP /FI",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:03+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "EGO"
+  ]
+}

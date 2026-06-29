@@ -1,0 +1,27 @@
+{
+  "cik": "0001546066",
+  "country": "Alberta, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "PEMBINA PIPELINE CORP",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1382",
+  "sic_description": "Oil & Gas Field Exploration Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:12+00:00"
+  },
+  "state_of_incorporation": "A0",
+  "tickers": [
+    "PBA",
+    "PBNAF",
+    "PBPRF",
+    "PMBPF",
+    "PMMBF",
+    "PPLAF",
+    "PPLOF"
+  ]
+}

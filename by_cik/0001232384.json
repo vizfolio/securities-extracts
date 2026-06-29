@@ -1,0 +1,29 @@
+{
+  "cik": "0001232384",
+  "country": "Alberta, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "TC ENERGY CORP",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4922",
+  "sic_description": "Natural Gas Transmission",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:08+00:00"
+  },
+  "state_of_incorporation": "A0",
+  "tickers": [
+    "TRP",
+    "TNCAF",
+    "TCANF",
+    "TCENF",
+    "TCEYF",
+    "TCNCF",
+    "TRPEF",
+    "TRPPF",
+    "TRPRF"
+  ]
+}

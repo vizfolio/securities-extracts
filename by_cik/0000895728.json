@@ -1,0 +1,36 @@
+{
+  "cik": "0000895728",
+  "country": "Alberta, Canada",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "ENBRIDGE INC",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "4610",
+  "sic_description": "Pipe Lines (No Natural Gas)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:02+00:00"
+  },
+  "state_of_incorporation": "A0",
+  "tickers": [
+    "ENB",
+    "EBBNF",
+    "EBBGF",
+    "EBGEF",
+    "EBRGF",
+    "EBRZF",
+    "ENBFF",
+    "ENBGF",
+    "ENBHF",
+    "ENBMF",
+    "ENBNF",
+    "ENBOF",
+    "ENBRF",
+    "ENBSF",
+    "ENFFF",
+    "ENNPF"
+  ]
+}

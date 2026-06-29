@@ -1,0 +1,21 @@
+{
+  "cik": "0001898416",
+  "country": "Luxembourg",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Alvotech",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:17+00:00"
+  },
+  "state_of_incorporation": "N4",
+  "tickers": [
+    "ALVO",
+    "ALVOW"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001780232",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GFL Environmental Inc.",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4953",
+  "sic_description": "Refuse Systems",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:15+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "GFL"
+  ]
+}

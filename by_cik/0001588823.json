@@ -1,0 +1,20 @@
+{
+  "cik": "0001588823",
+  "country": "Quebec, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "TFI International Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4210",
+  "sic_description": "Trucking & Courier Services (No Air)",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:12+00:00"
+  },
+  "state_of_incorporation": "A8",
+  "tickers": [
+    "TFII"
+  ]
+}

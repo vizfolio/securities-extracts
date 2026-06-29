@@ -1,0 +1,21 @@
+{
+  "cik": "0002072098",
+  "country": "Canada (Federal Level)",
+  "entity_type": "other",
+  "exchanges": [
+    "OTC"
+  ],
+  "name": "Toromont Industries Ltd./ADR",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:20+00:00"
+  },
+  "state_of_incorporation": "Z4",
+  "tickers": [
+    "TMTNY",
+    "TMTNF"
+  ]
+}

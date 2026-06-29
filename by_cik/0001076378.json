@@ -1,0 +1,22 @@
+{
+  "cik": "0001076378",
+  "country": "Mexico",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "CEMEX SAB DE CV",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "3241",
+  "sic_description": "Cement, Hydraulic",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:06+00:00"
+  },
+  "state_of_incorporation": "O5",
+  "tickers": [
+    "CX",
+    "CXMSF"
+  ]
+}

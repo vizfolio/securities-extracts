@@ -1,0 +1,20 @@
+{
+  "cik": "0001061574",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "CGI INC",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "source": {
+    "edgar_fetched_at": "2026-06-29T23:02:06+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "GIB"
+  ]
+}
