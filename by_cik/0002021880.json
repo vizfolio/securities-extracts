@@ -1,0 +1,20 @@
+{
+  "cik": "0002021880",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "HMH Holding Inc",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:31+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "HMH"
+  ]
+}

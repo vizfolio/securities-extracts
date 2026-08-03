@@ -1,0 +1,20 @@
+{
+  "cik": "0001853868",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Fervo Energy Co",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FRVO"
+  ]
+}

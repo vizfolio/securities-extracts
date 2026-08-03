@@ -1,0 +1,20 @@
+{
+  "cik": "0001898718",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "GMR Solutions Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4700",
+  "sic_description": "Transportation Services",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:30+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "GMRS"
+  ]
+}

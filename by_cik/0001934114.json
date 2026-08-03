@@ -1,0 +1,20 @@
+{
+  "cik": "0001934114",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SUJA LIFE, INC.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "2080",
+  "sic_description": "Beverages",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:30+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "SUJA"
+  ]
+}

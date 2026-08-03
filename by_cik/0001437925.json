@@ -1,0 +1,20 @@
+{
+  "cik": "0001437925",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Meridian Holdings Inc./NV",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:29+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "MRDN"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0002101698",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Elmet Group Co.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3490",
+  "sic_description": "Miscellaneous Fabricated Metal Products",
+  "source": {
+    "edgar_fetched_at": "2026-08-03T09:44:32+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ELMT"
+  ]
+}
