@@ -1,0 +1,22 @@
+{
+  "cik": "0001075124",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "THOMSON REUTERS CORP /CAN/",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "2741",
+  "sic_description": "Miscellaneous Publishing",
+  "source": {
+    "edgar_fetched_at": "2026-08-10T07:34:09+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "TRI",
+    "TMSOF"
+  ]
+}

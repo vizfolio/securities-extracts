@@ -1,0 +1,20 @@
+{
+  "cik": "0002104882",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "EagleRock Land, LLC",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "6792",
+  "sic_description": "Oil Royalty Traders",
+  "source": {
+    "edgar_fetched_at": "2026-08-10T07:34:09+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "EROK"
+  ]
+}
