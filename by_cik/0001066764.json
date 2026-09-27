@@ -1,0 +1,21 @@
+{
+  "cik": "0001066764",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Bimergen Energy Corp",
+  "schema_version": "0.1",
+  "sector": "Utilities",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:52:42+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BESS",
+    "BESS-WT"
+  ]
+}

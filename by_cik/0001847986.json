@@ -1,0 +1,21 @@
+{
+  "cik": "0001847986",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Dragonfly Energy Holdings Corp.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3690",
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:18+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "DFLI",
+    "DFLIW"
+  ]
+}

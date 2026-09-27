@@ -5,15 +5,15 @@
   "exchanges": [
     "NYSE"
   ],
-  "name": "NET Power Inc.",
+  "name": "Net Power Inc.",
   "schema_version": "0.1",
   "sector": "Industrials",
   "sic": "3620",
   "sic_description": "Electrical Industrial Apparatus",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:30+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:17+00:00"
   },
-  "state_of_incorporation": "NC",
+  "state_of_incorporation": "DE",
   "tickers": [
     "NPWR",
     "NPWR-WT"

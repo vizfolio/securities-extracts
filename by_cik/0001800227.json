@@ -11,11 +11,10 @@
   "sic": "7370",
   "sic_description": "Services-Computer Programming, Data Processing, Etc.",
   "source": {
-    "edgar_fetched_at": "2026-06-27T22:17:25+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:43+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "PPLI",
-    "IAC"
+    "PPLI"
   ]
 }

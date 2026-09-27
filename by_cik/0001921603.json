@@ -1,0 +1,20 @@
+{
+  "cik": "0001921603",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "WhiteHawk Minerals Corp.",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:40+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "WHK"
+  ]
+}

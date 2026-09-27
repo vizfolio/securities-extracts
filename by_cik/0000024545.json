@@ -11,11 +11,11 @@
   "sic": "2082",
   "sic_description": "Malt Beverages",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:40:01+00:00"
+    "edgar_fetched_at": "2026-09-27T20:49:51+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "TAP",
-    "TAP-A"
+    "TAP-A",
+    "TAP"
   ]
 }

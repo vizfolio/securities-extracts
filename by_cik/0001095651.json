@@ -1,6 +1,6 @@
 {
   "cik": "0001095651",
-  "country": null,
+  "country": "US",
   "entity_type": "operating",
   "exchanges": [
     "NYSE"
@@ -11,9 +11,9 @@
   "sic": "6798",
   "sic_description": "Real Estate Investment Trusts",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:45:54+00:00"
+    "edgar_fetched_at": "2026-09-27T20:52:52+00:00"
   },
-  "state_of_incorporation": null,
+  "state_of_incorporation": "MD",
   "tickers": [
     "SAFE"
   ]

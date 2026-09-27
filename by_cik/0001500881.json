@@ -1,0 +1,20 @@
+{
+  "cik": "0001500881",
+  "country": "British Columbia, Canada",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "enCore Energy Corp.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1090",
+  "sic_description": "Miscellaneous Metal Ores",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:54:37+00:00"
+  },
+  "state_of_incorporation": "A1",
+  "tickers": [
+    "EU"
+  ]
+}

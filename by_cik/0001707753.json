@@ -1,6 +1,6 @@
 {
   "cik": "0001707753",
-  "country": "Netherlands",
+  "country": null,
   "entity_type": "operating",
   "exchanges": [
     "NYSE"
@@ -11,9 +11,9 @@
   "sic": "7372",
   "sic_description": "Services-Prepackaged Software",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:50:47+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:07+00:00"
   },
-  "state_of_incorporation": "P7",
+  "state_of_incorporation": null,
   "tickers": [
     "ESTC"
   ]

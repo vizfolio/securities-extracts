@@ -1,0 +1,22 @@
+{
+  "cik": "0001963088",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "AtlasClear Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:46+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ATCH",
+    "ATCHW"
+  ]
+}

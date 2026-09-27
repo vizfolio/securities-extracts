@@ -2,19 +2,15 @@
   "cik": "0001320414",
   "country": null,
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
+  "exchanges": [],
   "name": "SELECT MEDICAL HOLDINGS CORP",
   "schema_version": "0.1",
   "sector": "Health Care",
   "sic": "8060",
   "sic_description": "Services-Hospitals",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:47:02+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:38+00:00"
   },
   "state_of_incorporation": null,
-  "tickers": [
-    "SEM"
-  ]
+  "tickers": []
 }

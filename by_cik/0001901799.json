@@ -3,8 +3,7 @@
   "country": null,
   "entity_type": "operating",
   "exchanges": [
-    "OTC",
-    "Nasdaq"
+    "OTC"
   ],
   "name": "Bitcoin Depot Inc.",
   "schema_version": "0.1",
@@ -12,13 +11,10 @@
   "sic": "6199",
   "sic_description": "Finance Services",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:57+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:37+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [
-    "BTMCQ",
-    "BTM",
-    "BTMWQ",
-    "BTMWW"
+    "BTMCQ"
   ]
 }

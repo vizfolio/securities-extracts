@@ -1,0 +1,20 @@
+{
+  "cik": "0002063863",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Elauwit Connection, Inc.",
+  "schema_version": "0.1",
+  "sector": "Communication Services",
+  "sic": "4899",
+  "sic_description": "Communications Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:58:00+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "ELWT"
+  ]
+}

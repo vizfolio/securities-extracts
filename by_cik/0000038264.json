@@ -1,0 +1,20 @@
+{
+  "cik": "0000038264",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Forward Industries, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:49:59+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "FWDI"
+  ]
+}

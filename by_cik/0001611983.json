@@ -3,8 +3,7 @@
   "country": null,
   "entity_type": "operating",
   "exchanges": [
-    "Nasdaq",
-    "OTC"
+    "Nasdaq"
   ],
   "name": "Liberty Broadband Corp",
   "schema_version": "0.1",
@@ -12,13 +11,12 @@
   "sic": "4841",
   "sic_description": "Cable & Other Pay Television Services",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:49:42+00:00"
+    "edgar_fetched_at": "2026-09-27T20:55:20+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [
-    "LBRDA",
-    "LBRDB",
     "LBRDK",
+    "LBRDA",
     "LBRDP"
   ]
 }

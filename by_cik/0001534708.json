@@ -1,0 +1,20 @@
+{
+  "cik": "0001534708",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Beeline Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6162",
+  "sic_description": "Mortgage Bankers & Loan Correspondents",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:54:52+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "BLNE"
+  ]
+}

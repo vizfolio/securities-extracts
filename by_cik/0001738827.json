@@ -11,10 +11,11 @@
   "sic": "1389",
   "sic_description": "Oil & Gas Field Services, NEC",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:05+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:17+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [
-    "KLXE"
+    "KLXE",
+    "KLXER"
   ]
 }

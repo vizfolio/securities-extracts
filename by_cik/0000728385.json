@@ -1,0 +1,20 @@
+{
+  "cik": "0000728385",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Birchtech Corp.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3829",
+  "sic_description": "Measuring & Controlling Devices, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:50:54+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "BCHT"
+  ]
+}

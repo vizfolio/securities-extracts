@@ -1,6 +1,6 @@
 {
   "cik": "0001514705",
-  "country": null,
+  "country": "US",
   "entity_type": "operating",
   "exchanges": [
     "NYSE"
@@ -11,9 +11,9 @@
   "sic": "3312",
   "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:48:42+00:00"
+    "edgar_fetched_at": "2026-09-27T20:54:41+00:00"
   },
-  "state_of_incorporation": null,
+  "state_of_incorporation": "DE",
   "tickers": [
     "SXC"
   ]

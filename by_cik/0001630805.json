@@ -11,12 +11,11 @@
   "sic": "3433",
   "sic_description": "Heating Equipment, Except Electric & Warm Air Furnaces",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:49:54+00:00"
+    "edgar_fetched_at": "2026-09-27T20:55:29+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
     "BW",
-    "BWNB",
     "BW-PA"
   ]
 }

@@ -2,19 +2,15 @@
   "cik": "0001127703",
   "country": "US",
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
+  "exchanges": [],
   "name": "PROASSURANCE CORP",
   "schema_version": "0.1",
   "sector": "Financials",
   "sic": "6331",
   "sic_description": "Fire, Marine & Casualty Insurance",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:46:09+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:02+00:00"
   },
   "state_of_incorporation": "DE",
-  "tickers": [
-    "PRA"
-  ]
+  "tickers": []
 }

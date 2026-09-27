@@ -1,0 +1,20 @@
+{
+  "cik": "0002030522",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Marwynn Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Consumer Staples",
+  "sic": "5141",
+  "sic_description": "Wholesale-Groceries, General Line",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:56+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "MWYN"
+  ]
+}

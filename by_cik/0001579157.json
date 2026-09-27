@@ -1,0 +1,20 @@
+{
+  "cik": "0001579157",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "VINCE HOLDING CORP.",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "5600",
+  "sic_description": "Retail-Apparel & Accessory Stores",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:55:04+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VNCE"
+  ]
+}

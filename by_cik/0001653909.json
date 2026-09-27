@@ -1,19 +1,19 @@
 {
   "cik": "0001653909",
-  "country": "US",
+  "country": null,
   "entity_type": "operating",
   "exchanges": [
     "Nasdaq"
   ],
   "name": "Smartbird, Inc.",
   "schema_version": "0.1",
-  "sector": "Consumer Discretionary",
-  "sic": "2300",
-  "sic_description": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:50:12+00:00"
+    "edgar_fetched_at": "2026-09-27T20:55:44+00:00"
   },
-  "state_of_incorporation": "DE",
+  "state_of_incorporation": null,
   "tickers": [
     "BIRD"
   ]

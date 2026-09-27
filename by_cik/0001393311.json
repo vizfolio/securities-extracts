@@ -11,12 +11,13 @@
   "sic": "6798",
   "sic_description": "Real Estate Investment Trusts",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:47:34+00:00"
+    "edgar_fetched_at": "2026-09-27T20:54:00+00:00"
   },
   "state_of_incorporation": "MD",
   "tickers": [
     "PSA",
     "PSA-PH",
+    "PSA-PU",
     "PSA-PF",
     "PSA-PG",
     "PSA-PI",
@@ -29,6 +30,7 @@
     "PSA-PP",
     "PSA-PQ",
     "PSA-PR",
-    "PSA-PS"
+    "PSA-PS",
+    "PSA-PT"
   ]
 }

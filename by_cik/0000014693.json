@@ -11,11 +11,11 @@
   "sic": "2080",
   "sic_description": "Beverages",
   "source": {
-    "edgar_fetched_at": "2026-06-27T19:04:33+00:00"
+    "edgar_fetched_at": "2026-09-27T20:49:47+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "BF-A",
-    "BF-B"
+    "BF-B",
+    "BF-A"
   ]
 }

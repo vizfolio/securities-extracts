@@ -3,7 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "Nasdaq"
+    "OTC"
   ],
   "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC.",
   "schema_version": "0.1",
@@ -11,7 +11,7 @@
   "sic": "2834",
   "sic_description": "Pharmaceutical Preparations",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:07+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:18+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [

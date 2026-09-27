@@ -11,10 +11,11 @@
   "sic": "3571",
   "sic_description": "Electronic Computers",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:47:25+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:53+00:00"
   },
   "state_of_incorporation": "CA",
   "tickers": [
-    "SMCI"
+    "SMCI",
+    "SMCIP"
   ]
 }

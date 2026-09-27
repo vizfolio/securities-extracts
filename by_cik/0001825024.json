@@ -3,7 +3,7 @@
   "country": null,
   "entity_type": "operating",
   "exchanges": [
-    "NYSE",
+    "Nasdaq",
     "OTC"
   ],
   "name": "Offerpad Solutions Inc.",
@@ -12,7 +12,7 @@
   "sic": "6531",
   "sic_description": "Real Estate Agents & Managers (For Others)",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:08+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:02+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [

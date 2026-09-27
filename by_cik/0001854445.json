@@ -5,16 +5,16 @@
   "exchanges": [
     "Nasdaq"
   ],
-  "name": "Glimpse Group, Inc.",
+  "name": "Brightline Interactive, Inc./NV",
   "schema_version": "0.1",
   "sector": "Information Technology",
   "sic": "7371",
   "sic_description": "Services-Computer Programming Services",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:36+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:22+00:00"
   },
   "state_of_incorporation": "NV",
   "tickers": [
-    "GGRP"
+    "BTLN"
   ]
 }

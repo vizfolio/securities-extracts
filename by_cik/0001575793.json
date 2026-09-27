@@ -1,0 +1,20 @@
+{
+  "cik": "0001575793",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Energous Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3663",
+  "sic_description": "Radio & Tv Broadcasting & Communications Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:55:02+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "WATT"
+  ]
+}

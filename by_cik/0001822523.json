@@ -8,10 +8,10 @@
   "name": "Advanced Flower Capital Inc.",
   "schema_version": "0.1",
   "sector": null,
-  "sic": null,
+  "sic": "0000",
   "sic_description": null,
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:04+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:00+00:00"
   },
   "state_of_incorporation": "MD",
   "tickers": [

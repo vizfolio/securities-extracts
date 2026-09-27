@@ -2,19 +2,15 @@
   "cik": "0001473844",
   "country": "US",
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
+  "exchanges": [],
   "name": "Stellar Bancorp, Inc.",
   "schema_version": "0.1",
   "sector": "Financials",
   "sic": "6021",
   "sic_description": "National Commercial Banks",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:48:18+00:00"
+    "edgar_fetched_at": "2026-09-27T20:54:27+00:00"
   },
   "state_of_incorporation": "TX",
-  "tickers": [
-    "STEL"
-  ]
+  "tickers": []
 }

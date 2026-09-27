@@ -1,0 +1,20 @@
+{
+  "cik": "0001759186",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Z Squared Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:56:24+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "ZSQR"
+  ]
+}

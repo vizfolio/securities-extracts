@@ -1,0 +1,20 @@
+{
+  "cik": "0001925062",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Forbright, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:40+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "FRBT"
+  ]
+}

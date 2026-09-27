@@ -1,0 +1,21 @@
+{
+  "cik": "0001907223",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Greenland Mines Ltd",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:39+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "GRML",
+    "GRMLW"
+  ]
+}

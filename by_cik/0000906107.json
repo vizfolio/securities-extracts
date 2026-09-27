@@ -1,20 +1,20 @@
 {
   "cik": "0000906107",
-  "country": "US",
+  "country": null,
   "entity_type": "operating",
   "exchanges": [
     "NYSE"
   ],
-  "name": "EQUITY RESIDENTIAL",
+  "name": "VIVMARK RESIDENTIAL",
   "schema_version": "0.1",
   "sector": "Real Estate",
   "sic": "6798",
   "sic_description": "Real Estate Investment Trusts",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:44:11+00:00"
+    "edgar_fetched_at": "2026-09-27T20:51:53+00:00"
   },
-  "state_of_incorporation": "MD",
+  "state_of_incorporation": null,
   "tickers": [
-    "EQR"
+    "VMRK"
   ]
 }

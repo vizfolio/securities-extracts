@@ -1,0 +1,21 @@
+{
+  "cik": "0001853138",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Kodiak AI, Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:21+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "KDK",
+    "KDKRW"
+  ]
+}

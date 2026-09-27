@@ -8,10 +8,10 @@
   "name": "STANDARD BIOTOOLS INC.",
   "schema_version": "0.1",
   "sector": "Health Care",
-  "sic": "3826",
-  "sic_description": "Laboratory Analytical Instruments",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:46:20+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:09+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [

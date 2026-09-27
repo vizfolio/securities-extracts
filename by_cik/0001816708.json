@@ -3,8 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "NYSE",
-    "OTC"
+    "NYSE"
   ],
   "name": "Owlet, Inc.",
   "schema_version": "0.1",
@@ -12,11 +11,10 @@
   "sic": "3829",
   "sic_description": "Measuring & Controlling Devices, NEC",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:53+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:53+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "OWLT",
-    "OWLTW"
+    "OWLT"
   ]
 }

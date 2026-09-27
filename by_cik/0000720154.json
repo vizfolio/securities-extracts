@@ -2,21 +2,17 @@
   "cik": "0000720154",
   "country": "US",
   "entity_type": "operating",
-  "exchanges": [
-    "OTC",
-    "Nasdaq"
-  ],
+  "exchanges": [],
   "name": "Inotiv, Inc.",
   "schema_version": "0.1",
   "sector": "Health Care",
   "sic": "8731",
   "sic_description": "Services-Commercial Physical & Biological Research",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:42:16+00:00"
+    "edgar_fetched_at": "2026-09-27T20:50:51+00:00"
   },
   "state_of_incorporation": "IN",
   "tickers": [
-    "NOTVQ",
-    "NOTV"
+    "NOTVQ"
   ]
 }

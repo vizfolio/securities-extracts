@@ -1,0 +1,20 @@
+{
+  "cik": "0002077709",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Rank One Computing Corp",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:58:02+00:00"
+  },
+  "state_of_incorporation": "CO",
+  "tickers": [
+    "ROC"
+  ]
+}

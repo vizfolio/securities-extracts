@@ -3,7 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "NYSE"
+    "Nasdaq"
   ],
   "name": "Happen, Inc.",
   "schema_version": "0.1",
@@ -11,10 +11,10 @@
   "sic": "6141",
   "sic_description": "Personal Credit Institutions",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:47:45+00:00"
+    "edgar_fetched_at": "2026-09-27T20:54:06+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "LC"
+    "HAPN"
   ]
 }

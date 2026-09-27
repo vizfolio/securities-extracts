@@ -8,10 +8,10 @@
   "name": "RenovoRx, Inc.",
   "schema_version": "0.1",
   "sector": "Health Care",
-  "sic": "2834",
-  "sic_description": "Pharmaceutical Preparations",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:49:13+00:00"
+    "edgar_fetched_at": "2026-09-27T20:55:02+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [

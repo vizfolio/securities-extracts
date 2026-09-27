@@ -3,7 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "NYSE"
+    "Nasdaq"
   ],
   "name": "TRIO-TECH INTERNATIONAL",
   "schema_version": "0.1",
@@ -11,7 +11,7 @@
   "sic": "3559",
   "sic_description": "Special Industry Machinery, NEC",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:42:30+00:00"
+    "edgar_fetched_at": "2026-09-27T20:50:55+00:00"
   },
   "state_of_incorporation": "CA",
   "tickers": [

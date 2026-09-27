@@ -1,0 +1,20 @@
+{
+  "cik": "0002067767",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "NextBoat Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3730",
+  "sic_description": "Ship & Boat Building & Repairing",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:58:01+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "NXB"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001972234",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "VenHub Global, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3590",
+  "sic_description": "Misc Industrial & Commercial Machinery & Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:47+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "VHUB"
+  ]
+}

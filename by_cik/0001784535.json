@@ -7,11 +7,11 @@
   ],
   "name": "Porch Group, Inc.",
   "schema_version": "0.1",
-  "sector": "Information Technology",
-  "sic": "7372",
-  "sic_description": "Services-Prepackaged Software",
+  "sector": "Financials",
+  "sic": "6321",
+  "sic_description": "Accident & Health Insurance",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:31+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:37+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [

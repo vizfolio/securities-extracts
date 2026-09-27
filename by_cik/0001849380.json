@@ -11,11 +11,11 @@
   "sic": "8731",
   "sic_description": "Services-Commercial Physical & Biological Research",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:33+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:19+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "ONMD",
-    "ONMDW"
+    "ONMDW",
+    "ONMD"
   ]
 }

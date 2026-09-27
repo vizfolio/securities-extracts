@@ -11,11 +11,10 @@
   "sic": "3721",
   "sic_description": "Aircraft",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:00+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:57+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "JOBY",
-    "JOBY-WT"
+    "JOBY"
   ]
 }

@@ -11,12 +11,11 @@
   "sic": "7350",
   "sic_description": "Services-Miscellaneous Equipment Rental & Leasing",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:49:24+00:00"
+    "edgar_fetched_at": "2026-09-27T20:55:09+00:00"
   },
   "state_of_incorporation": null,
   "tickers": [
     "FTAI",
-    "FTAIM",
-    "FTAIN"
+    "FTAIM"
   ]
 }

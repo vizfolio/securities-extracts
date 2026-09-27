@@ -2,19 +2,15 @@
   "cik": "0000924901",
   "country": "US",
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
+  "exchanges": [],
   "name": "Veris Residential, Inc.",
   "schema_version": "0.1",
   "sector": "Real Estate",
   "sic": "6798",
   "sic_description": "Real Estate Investment Trusts",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:44:31+00:00"
+    "edgar_fetched_at": "2026-09-27T20:52:04+00:00"
   },
   "state_of_incorporation": "MD",
-  "tickers": [
-    "VRE"
-  ]
+  "tickers": []
 }

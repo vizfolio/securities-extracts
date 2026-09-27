@@ -2,19 +2,15 @@
   "cik": "0000034088",
   "country": "US",
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
+  "exchanges": [],
   "name": "EXXON MOBIL CORP",
   "schema_version": "0.1",
   "sector": "Energy",
   "sic": "2911",
   "sic_description": "Petroleum Refining",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:34:18+00:00"
+    "edgar_fetched_at": "2026-09-27T20:49:57+00:00"
   },
   "state_of_incorporation": "NJ",
-  "tickers": [
-    "XOM"
-  ]
+  "tickers": []
 }

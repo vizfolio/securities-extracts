@@ -6,18 +6,18 @@
     "Nasdaq",
     "OTC"
   ],
-  "name": "Oncology Institute, Inc.",
+  "name": "Starling Oncology, Inc.",
   "schema_version": "0.1",
   "sector": "Health Care",
   "sic": "8011",
   "sic_description": "Services-Offices & Clinics of  Doctors of  Medicine",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:41+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:43+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "TOI",
+    "STLN",
     "DFPH",
-    "TOIIW"
+    "STLNW"
   ]
 }

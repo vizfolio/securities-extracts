@@ -11,11 +11,10 @@
   "sic": "3711",
   "sic_description": "Motor Vehicles & Passenger Car Bodies",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:51:46+00:00"
+    "edgar_fetched_at": "2026-09-27T20:56:46+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "FFAI",
-    "FFAIW"
+    "FFAI"
   ]
 }

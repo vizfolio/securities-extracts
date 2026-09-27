@@ -5,16 +5,16 @@
   "exchanges": [
     "NYSE"
   ],
-  "name": "HELIX ENERGY SOLUTIONS GROUP INC",
+  "name": "HORNBECK OFFSHORE SERVICES, INC.",
   "schema_version": "0.1",
   "sector": "Energy",
   "sic": "1389",
   "sic_description": "Oil & Gas Field Services, NEC",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:43:38+00:00"
+    "edgar_fetched_at": "2026-09-27T20:51:33+00:00"
   },
-  "state_of_incorporation": "MN",
+  "state_of_incorporation": "DE",
   "tickers": [
-    "HLX"
+    "HOS"
   ]
 }

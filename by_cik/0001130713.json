@@ -3,19 +3,19 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "NYSE"
+    "Nasdaq"
   ],
-  "name": "BED BATH & BEYOND, INC.",
+  "name": "NEIGHBORHOOD INTELLIGENCE, INC.",
   "schema_version": "0.1",
   "sector": "Consumer Discretionary",
   "sic": "5961",
   "sic_description": "Retail-Catalog & Mail-Order Houses",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:46:10+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:03+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
-    "BBBY",
-    "BBBY-WT"
+    "NXH",
+    "BBBYW"
   ]
 }

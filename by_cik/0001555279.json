@@ -7,11 +7,11 @@
   ],
   "name": "908 Devices Inc.",
   "schema_version": "0.1",
-  "sector": "Industrials",
-  "sic": "3829",
-  "sic_description": "Measuring & Controlling Devices, NEC",
+  "sector": "Health Care",
+  "sic": "3826",
+  "sic_description": "Laboratory Analytical Instruments",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:49:02+00:00"
+    "edgar_fetched_at": "2026-09-27T20:54:55+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [

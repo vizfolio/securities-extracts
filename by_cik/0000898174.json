@@ -11,12 +11,11 @@
   "sic": "6311",
   "sic_description": "Life Insurance",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:44:07+00:00"
+    "edgar_fetched_at": "2026-09-27T20:51:50+00:00"
   },
   "state_of_incorporation": "MO",
   "tickers": [
     "RGA",
-    "RZB",
     "RZC"
   ]
 }

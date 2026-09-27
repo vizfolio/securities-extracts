@@ -1,7 +1,7 @@
 {
   "cik": "0002119322",
   "country": "US",
-  "entity_type": "other",
+  "entity_type": "operating",
   "exchanges": [
     "Nasdaq"
   ],
@@ -11,7 +11,7 @@
   "sic": "7373",
   "sic_description": "Services-Computer Integrated Systems Design",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:53:34+00:00"
+    "edgar_fetched_at": "2026-09-27T20:58:05+00:00"
   },
   "state_of_incorporation": "OR",
   "tickers": [

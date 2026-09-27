@@ -1,0 +1,20 @@
+{
+  "cik": "0001952853",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Massimo Group",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "3790",
+  "sic_description": "Miscellaneous Transportation Equipment",
+  "source": {
+    "edgar_fetched_at": "2026-09-27T20:57:44+00:00"
+  },
+  "state_of_incorporation": "NV",
+  "tickers": [
+    "MAMO"
+  ]
+}

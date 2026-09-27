@@ -2,19 +2,15 @@
   "cik": "0001274173",
   "country": "Jersey",
   "entity_type": "operating",
-  "exchanges": [
-    "NYSE"
-  ],
-  "name": "JANUS HENDERSON GROUP PLC",
+  "exchanges": [],
+  "name": "Janus Henderson Group Ltd.",
   "schema_version": "0.1",
   "sector": "Financials",
   "sic": "6282",
   "sic_description": "Investment Advice",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:46:43+00:00"
+    "edgar_fetched_at": "2026-09-27T20:53:24+00:00"
   },
   "state_of_incorporation": "Y9",
-  "tickers": [
-    "JHG"
-  ]
+  "tickers": []
 }

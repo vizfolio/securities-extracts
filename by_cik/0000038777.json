@@ -5,13 +5,13 @@
   "exchanges": [
     "NYSE"
   ],
-  "name": "FRANKLIN RESOURCES INC",
+  "name": "FRANKLIN TEMPLETON INC",
   "schema_version": "0.1",
   "sector": "Financials",
   "sic": "6282",
   "sic_description": "Investment Advice",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:40:14+00:00"
+    "edgar_fetched_at": "2026-09-27T20:49:59+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [

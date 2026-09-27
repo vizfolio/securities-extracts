@@ -11,12 +11,11 @@
   "sic": "6282",
   "sic_description": "Investment Advice",
   "source": {
-    "edgar_fetched_at": "2026-06-27T18:52:39+00:00"
+    "edgar_fetched_at": "2026-09-27T20:57:24+00:00"
   },
   "state_of_incorporation": "DE",
   "tickers": [
     "APO",
-    "APO-PA",
     "APOS"
   ]
 }
