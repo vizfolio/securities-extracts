@@ -1,19 +1,19 @@
 {
   "cik": "0001654795",
-  "country": "British Columbia, Canada",
+  "country": "Bermuda",
   "entity_type": "other",
   "exchanges": [
     "NYSE"
   ],
-  "name": "Brookfield Business Corp",
+  "name": "Brookfield Business Partners L.P.",
   "schema_version": "0.1",
   "sector": "Industrials",
   "sic": "1700",
   "sic_description": "Construction - Special Trade Contractors",
   "source": {
-    "edgar_fetched_at": "2026-06-29T23:02:13+00:00"
+    "edgar_fetched_at": "2026-09-28T13:27:57+00:00"
   },
-  "state_of_incorporation": "A1",
+  "state_of_incorporation": "D0",
   "tickers": [
     "BBUC"
   ]

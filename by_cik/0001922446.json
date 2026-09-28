@@ -1,6 +1,6 @@
 {
   "cik": "0001922446",
-  "country": "United Kingdom",
+  "country": "US",
   "entity_type": "operating",
   "exchanges": [
     "NYSE"
@@ -11,9 +11,9 @@
   "sic": "1311",
   "sic_description": "Crude Petroleum & Natural Gas",
   "source": {
-    "edgar_fetched_at": "2026-06-29T23:02:18+00:00"
+    "edgar_fetched_at": "2026-09-28T13:28:04+00:00"
   },
-  "state_of_incorporation": "X0",
+  "state_of_incorporation": "DE",
   "tickers": [
     "DEC"
   ]

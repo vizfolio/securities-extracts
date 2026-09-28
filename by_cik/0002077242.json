@@ -11,11 +11,10 @@
   "sic": null,
   "sic_description": null,
   "source": {
-    "edgar_fetched_at": "2026-06-29T23:02:21+00:00"
+    "edgar_fetched_at": "2026-09-28T13:28:08+00:00"
   },
   "state_of_incorporation": "Z4",
   "tickers": [
-    "STJNY",
-    "STLJF"
+    "STJNY"
   ]
 }

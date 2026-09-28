@@ -11,14 +11,10 @@
   "sic": "6311",
   "sic_description": "Life Insurance",
   "source": {
-    "edgar_fetched_at": "2026-06-29T23:02:01+00:00"
+    "edgar_fetched_at": "2026-09-28T13:27:47+00:00"
   },
   "state_of_incorporation": "Z4",
   "tickers": [
-    "GWLIF",
-    "GRWFF",
-    "GRWLF",
-    "GRWTF",
-    "GWLPF"
+    "GWLIF"
   ]
 }
