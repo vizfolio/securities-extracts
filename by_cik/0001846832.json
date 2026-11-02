@@ -1,0 +1,20 @@
+{
+  "cik": "0001846832",
+  "country": "Cayman Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "dLocal Ltd",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:54+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "DLO"
+  ]
+}

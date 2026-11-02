@@ -1,0 +1,20 @@
+{
+  "cik": "0001289877",
+  "country": null,
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "SFL Corp Ltd.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4412",
+  "sic_description": "Deep Sea Foreign Transportation of  Freight",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:51+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "SFL"
+  ]
+}

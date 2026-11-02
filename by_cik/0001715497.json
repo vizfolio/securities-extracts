@@ -1,0 +1,20 @@
+{
+  "cik": "0001715497",
+  "country": "Bermuda",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Borr Drilling Ltd",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "1381",
+  "sic_description": "Drilling Oil & Gas Wells",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:54+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "BORR"
+  ]
+}

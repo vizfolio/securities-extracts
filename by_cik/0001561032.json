@@ -3,8 +3,7 @@
   "country": "US",
   "entity_type": "operating",
   "exchanges": [
-    "Nasdaq",
-    "OTC"
+    "Nasdaq"
   ],
   "name": "National Healthcare Properties, Inc.",
   "schema_version": "0.1",
@@ -12,13 +11,10 @@
   "sic": "6798",
   "sic_description": "Real Estate Investment Trusts",
   "source": {
-    "edgar_fetched_at": "2026-08-03T09:44:29+00:00"
+    "edgar_fetched_at": "2026-11-02T15:16:52+00:00"
   },
   "state_of_incorporation": "MD",
   "tickers": [
-    "NHP",
-    "HLTC",
-    "NHPAP",
-    "NHPBP"
+    "NHP"
   ]
 }

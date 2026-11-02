@@ -1,0 +1,22 @@
+{
+  "cik": "0002068385",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "name": "SharonAI Holdings Inc.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:57+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SHAZ",
+    "SHAZW"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cik": "0001636639",
+  "country": "Bermuda",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Pelagos Insurance Capital Ltd",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:53+00:00"
+  },
+  "state_of_incorporation": "D0",
+  "tickers": [
+    "PLGO"
+  ]
+}

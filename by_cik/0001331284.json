@@ -1,0 +1,20 @@
+{
+  "cik": "0001331284",
+  "country": "Marshall Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "DHT Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Industrials",
+  "sic": "4412",
+  "sic_description": "Deep Sea Foreign Transportation of  Freight",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:52+00:00"
+  },
+  "state_of_incorporation": "1T",
+  "tickers": [
+    "DHT"
+  ]
+}

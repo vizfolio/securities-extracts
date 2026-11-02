@@ -1,0 +1,20 @@
+{
+  "cik": "0001674416",
+  "country": "Switzerland",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "CRISPR Therapeutics AG",
+  "schema_version": "0.1",
+  "sector": "Health Care",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:53+00:00"
+  },
+  "state_of_incorporation": "V8",
+  "tickers": [
+    "CRSP"
+  ]
+}

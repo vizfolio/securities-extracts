@@ -1,0 +1,20 @@
+{
+  "cik": "0002092574",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Swarmer, Inc",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:57+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "SWMR"
+  ]
+}

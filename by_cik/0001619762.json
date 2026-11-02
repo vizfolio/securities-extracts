@@ -1,0 +1,20 @@
+{
+  "cik": "0001619762",
+  "country": "United Kingdom",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "Brightstar Lottery PLC",
+  "schema_version": "0.1",
+  "sector": "Consumer Discretionary",
+  "sic": "7990",
+  "sic_description": "Services-Miscellaneous Amusement & Recreation",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:53+00:00"
+  },
+  "state_of_incorporation": "X0",
+  "tickers": [
+    "BRSL"
+  ]
+}

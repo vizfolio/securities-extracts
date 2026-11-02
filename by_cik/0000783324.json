@@ -1,0 +1,20 @@
+{
+  "cik": "0000783324",
+  "country": null,
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "VISTA GOLD CORP",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:51+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": [
+    "VGZ"
+  ]
+}

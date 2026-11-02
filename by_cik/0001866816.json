@@ -1,0 +1,21 @@
+{
+  "cik": "0001866816",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "SYNTEC OPTICS HOLDINGS, INC.",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "3827",
+  "sic_description": "Optical Instruments & Lenses",
+  "source": {
+    "edgar_fetched_at": "2026-11-02T15:16:55+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "OPTX",
+    "OPTXW"
+  ]
+}
