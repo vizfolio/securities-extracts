@@ -1,0 +1,21 @@
+{
+  "cik": "0002152623",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Navient Holdings, Inc.",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:35+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": [
+    "NAVI",
+    "JSM"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cik": "0001561540",
+  "country": "Ontario, Canada",
+  "entity_type": "other",
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "name": "Torex Resources Inc.",
+  "schema_version": "0.1",
+  "sector": "Materials",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:33+00:00"
+  },
+  "state_of_incorporation": "A6",
+  "tickers": [
+    "TXR",
+    "TORXF"
+  ]
+}

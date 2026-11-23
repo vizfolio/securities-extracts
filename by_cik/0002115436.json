@@ -1,0 +1,20 @@
+{
+  "cik": "0002115436",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "NYSE"
+  ],
+  "name": "ExxonMobil Holdings Corp",
+  "schema_version": "0.1",
+  "sector": "Energy",
+  "sic": "2911",
+  "sic_description": "Petroleum Refining",
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:34+00:00"
+  },
+  "state_of_incorporation": "TX",
+  "tickers": [
+    "XOM"
+  ]
+}

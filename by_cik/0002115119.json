@@ -1,0 +1,20 @@
+{
+  "cik": "0002115119",
+  "country": "US",
+  "entity_type": "operating",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "Columbia Financial, Inc./MD/",
+  "schema_version": "0.1",
+  "sector": "Financials",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:34+00:00"
+  },
+  "state_of_incorporation": "MD",
+  "tickers": [
+    "CLBK"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cik": "0001432353",
+  "country": null,
+  "entity_type": "investment",
+  "exchanges": [],
+  "name": "Global X Funds",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:32+00:00"
+  },
+  "state_of_incorporation": null,
+  "tickers": []
+}

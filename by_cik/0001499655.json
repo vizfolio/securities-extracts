@@ -1,0 +1,16 @@
+{
+  "cik": "0001499655",
+  "country": "US",
+  "entity_type": "investment",
+  "exchanges": [],
+  "name": "Precidian ETFs Trust",
+  "schema_version": "0.1",
+  "sector": null,
+  "sic": null,
+  "sic_description": null,
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:33+00:00"
+  },
+  "state_of_incorporation": "DE",
+  "tickers": []
+}

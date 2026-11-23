@@ -1,0 +1,20 @@
+{
+  "cik": "0001716338",
+  "country": "Cayman Islands",
+  "entity_type": "other",
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "name": "J & Friends Holdings Ltd",
+  "schema_version": "0.1",
+  "sector": "Information Technology",
+  "sic": "7370",
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "source": {
+    "edgar_fetched_at": "2026-11-23T17:48:34+00:00"
+  },
+  "state_of_incorporation": "E9",
+  "tickers": [
+    "JF"
+  ]
+}
